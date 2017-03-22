@@ -4,7 +4,7 @@ class WPItemCreator:
 
     # %(project)s
     # %(slug)s
-    #  d['url']
+    # %(url)s #  d['url']
     # d['category']
     # d['address']
     # d['size']

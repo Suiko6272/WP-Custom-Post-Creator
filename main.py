@@ -39,3 +39,12 @@ for item in myData:
     masterXML += xmlItem ###Append to final XML
 
 #print(masterXML)
+
+
+###Get old permalink for 301 redirect
+def Permalink_301CSV(data):
+    for item in data:
+        oldUrl = item['url'] #grab old url
+        oldPermalink = oldUrl #Strip starting url into permalink
+        newPermalink = '/' + item['slug'] #create new url
+        #TODO: #store both into 301CSV
