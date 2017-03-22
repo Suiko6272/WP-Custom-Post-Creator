@@ -34,6 +34,8 @@ def AddSlugToData(data):
 
 creator = WPItemCreator()
 
+#TODO: remove 2nd St. Cecilia Hotel
+
 myData = LoadJSON() #Get Intial JSON Data
 myData = AddSlugToData(myData) #Create Slug
 
