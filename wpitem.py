@@ -14,8 +14,8 @@ class WPItemCreator:
             return True
         else:
             return False
-
-
+#%(project)s
+        #%(address)s
     # d["project"]
     # d['url']
     # d['category']
@@ -28,7 +28,7 @@ class WPItemCreator:
     # d['architectWebsite']
     def CreateItem(self, itemData):
         xmlItemTemplate = """<item>
-	<title>Page Title Value Goes Here</title>
+	<title>%(project)s</title>
 	<link>https://becaustin.wpengine.com/project/lower-case-title-value-goes-here/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>

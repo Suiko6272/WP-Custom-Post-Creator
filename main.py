@@ -1,15 +1,20 @@
 from wpitem import WPItemCreator
+from slugify import slugify
+#http://stackoverflow.com/questions/5574042/string-slugification-in-python
+#pip install python-slugify
 
 creator = WPItemCreator()
 
 
 #creator.xyz();
 
-# Grab JSON
-# Grab XML
-#Grab JSON Variables per unique Item
-#Grab XML Fields Location
-#Shove JSON Variables into XML Fields
+###PESUDO:
+    # Grab JSON
+    # Create permalink variable
+    # Place variables into XML Template
+    # Loop Item Creation and Save XML items
+
+
 
 #Grab JSON
 
@@ -41,10 +46,25 @@ def LoadJSON():
 #END LoadJSON
 
 
-#import json
-myData = LoadJSON()
-#print(json.dumps(myData))
 
+myData = LoadJSON()
+
+#creator.CreateItem(myData[0])
+
+for item in myData:
+    project = item['project']
+    item['slug'] = slugify(project) #convert project into slug
+    print("Project: " + item['project'])
+    print("Slug: " + item['slug'])
+#     for val in item:
+#         print(item[val])
+
+    # name = ???  # figure out the name of the drug
+    # number = ???  # figure out the number you want to append
+    # drug_dictionary[name].append(number)
+
+#import json
+#print(json.dumps(myData))
 ###value test
 # for item in myData:
 #     for val in item:
@@ -72,8 +92,3 @@ myData = LoadJSON()
 # </root>"""
 # data = {'name':'anurag', 'address':'Pune, india'}
 # print(xmlTemplate%data)
-
-
-data = {'name':'test', 'address':'Pune, india'}
-creator.CreateItem(data)
-#print xmlTemplate%data
