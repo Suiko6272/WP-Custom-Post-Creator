@@ -6,6 +6,7 @@ class WPItemCreator:
     # %(slug)s
     # %(url)s #  d['url']
     # %(category)s #  d['category']
+    # %(category-slug)s
     # %(address)s #   d['address']
     # %(size)s #   d['size']
     # %(cost)s #   d['cost']
@@ -36,7 +37,7 @@ class WPItemCreator:
 	<wp:post_type><![CDATA[project]]></wp:post_type>
 	<wp:post_password><![CDATA[]]></wp:post_password>
 	<wp:is_sticky>0</wp:is_sticky>
-	<category domain="project_category" nicename="category-slug"><![CDATA[%(category)s]]></category>
+	<category domain="project_category" nicename="%(category-slug)s"><![CDATA[%(category)s]]></category>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_prlipro-post-options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:3:{s:14:"requested_slug";s:0:"";s:19:"hide_social_buttons";b:0;s:20:"disable_replacements";b:0;}]]></wp:meta_value>
