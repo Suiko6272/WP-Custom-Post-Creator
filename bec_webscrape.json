@@ -1,0 +1,1838 @@
+[
+  {
+    "project": "Homestead Oaks",
+    "url": "http://www.baileyelliott.com/current/HomesteadOaks.html",
+    "category": "current",
+    "address": "3226 W. Slaughter Lane, Austin, Texas",
+    "size": "130,906SF",
+    "cost": "NotAvailable",
+    "description": "Ground up 140 unit, 4 story apartment building to include leasing office, learning center and maintenance facilities.",
+    "owner": "FC SW Housing, LP.",
+    "architect": "Hatch + Ulland Owen Architects",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "../completed/multifamily/images/HomesteadOaks_04.jpg",
+      "../completed/multifamily/images/HomesteadOaks_05.jpg",
+      "../completed/multifamily/images/HomesteadOaks_02.jpg",
+      "../completed/multifamily/images/HomesteadOaks_03.jpg"
+    ]
+  },
+  {
+    "project": "Westlake Athletic and Community Center",
+    "url": "http://www.baileyelliott.com/current/WACC.html",
+    "category": "current",
+    "address": "4300 Westbank Drive, Austin, Texas",
+    "size": "65,750SF",
+    "cost": "$5,463,000",
+    "description": "Ground up athletic and community center consisting of five basketball courts and indoor turf field.",
+    "owner": "Westlake Athletic Center, LLC.",
+    "architect": "Duke C. Garwood Architects, Inc.",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "../completed/churches/images/WACC_03.jpg",
+      "../completed/churches/images/WACC_02.jpg",
+      "../completed/churches/images/WACC_05.jpg",
+      "../completed/churches/images/WACC_04.jpg"
+    ]
+  },
+  {
+    "project": "Lakeline Station",
+    "url": "http://www.baileyelliott.com/current/Lakeline.html",
+    "category": "current",
+    "address": "13635 Rutledge Spur, Austin, Texas",
+    "size": "154,788SF",
+    "cost": "$17,000,000",
+    "description": "Ground up 128 unit apartment including a leasing office and learning center.",
+    "owner": "Foundation Communities",
+    "architect": "hatch + ulland owen architects",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "../completed/multifamily/images/Lakeline_02.jpg",
+      "../completed/multifamily/images/Lakeline_03.jpg",
+      "../completed/multifamily/images/Lakeline_04.jpg",
+      "../completed/multifamily/images/Lakeline_05.jpg"
+    ]
+  },
+  {
+    "project": "Aces Warehouse",
+    "url": "http://www.baileyelliott.com/current/Aces.html",
+    "category": "current",
+    "address": "1810 Rutherford Lane, Austin, Texas",
+    "size": "30,000SF",
+    "cost": "$2,877,000",
+    "description": "Ground up metal building.",
+    "owner": "Aces AC Supply",
+    "architect": "Euwer & Associates",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "../completed/office/images/Aces_04.jpg",
+      "../completed/office/images/Aces_02.jpg",
+      "../completed/office/images/Aces_03.jpg",
+      "../completed/office/images/Aces_05.jpg"
+    ]
+  },
+  {
+    "project": "Kappa Sigma",
+    "url": "http://www.baileyelliott.com/current/KappaSigma.html",
+    "category": "current",
+    "address": "1002 West 26th Street, Austin, Texas",
+    "size": "32,436SF",
+    "cost": "NotAvailable",
+    "description": "Ground up three story residence hall including study hall and underground parking garage.",
+    "owner": "Texas Kappa Sigma Educational Foundation",
+    "architect": "Katheryn Lott Architects",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "../completed/multifamily/images/KappaSigma_02.jpg",
+      "../completed/multifamily/images/KappaSigma_03.jpg",
+      "../completed/multifamily/images/KappaSigma_04.jpg",
+      "../completed/multifamily/images/KappaSigma_05.jpg"
+    ]
+  },
+  {
+    "project": "Uplands Village Building 4",
+    "url": "http://www.baileyelliott.com/current/UplandsVillageBuilding4.html",
+    "category": "current",
+    "address": "12005 Bee Cave Road, Austin, Texas",
+    "size": "7,200SF",
+    "cost": "$831,896",
+    "description": "Ground up shell building with 2,016 SF mezzanine.",
+    "owner": "Upvillage II, LLC.",
+    "architect": "Allan Nutt",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "../completed/office/images/UplandsVillageBuilding4_04.jpg",
+      "../completed/office/images/UplandsVillageBuilding4_05.jpg",
+      "../completed/office/images/UplandsVillageBuilding4_03.jpg",
+      "../completed/office/images/UplandsVillageBuilding4_02.jpg"
+    ]
+  },
+  {
+    "project": "Kyle Animal Hospital",
+    "url": "http://www.baileyelliott.com/current/KyleAnimalHospital.html",
+    "category": "current",
+    "address": "100 Hall Professional Center, Kyle, Texas",
+    "size": "3,855SF",
+    "cost": "NotAvailable",
+    "description": "Addition and remodel of existing veterinary hospital to include boarding and grooming facilities as well as parking lot expansion and detention pond..",
+    "owner": "KyleVet Holdings",
+    "architect": "Euwer & Associates",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "../completed/office/images/KyleAnimalHospital_04.jpg",
+      "../completed/office/images/KyleAnimalHospital_03.jpg",
+      "../completed/office/images/KyleAnimalHospital_02.jpg",
+      "../completed/office/images/KyleAnimalHospital_05.jpg"
+    ]
+  },
+  {
+    "project": "Bee Creek United Methodist Church",
+    "url": "http://www.baileyelliott.com/current/BCUMC.html",
+    "category": "current",
+    "address": "3000 Bee Creek Road, Spicewood, Texas",
+    "size": "9,000SF Gym and 4,000SF Multipurpose Building",
+    "cost": "$1,996,000",
+    "description": "Ground up new construction consisting of a 9,000SF gym complete with 6 basketball goals and volleyball courts as well as a 4,000SF multipurpose building to include meeting space, restrooms, offices and a raised stage.",
+    "owner": "Bee Creek United Methodist Church",
+    "architect": "Fields & Associates",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "../completed/churches/images/BeeCreekUMC_03.jpg",
+      "../completed/churches/images/BeeCreekUMC_02.jpg",
+      "../completed/churches/images/BeeCreekUMC_05.jpg",
+      "../completed/churches/images/BeeCreekUMC_04.jpg"
+    ]
+  },
+  {
+    "project": "Frost Bank - East Austin",
+    "url": "http://www.baileyelliott.com/current/FrostBankEastAustin.html",
+    "category": "current",
+    "address": "2421 East 7th Street, Austin, Texas",
+    "size": "2,113SF",
+    "cost": "$611,000",
+    "description": "Remodel of existing bank..",
+    "owner": "The Frost National Bank",
+    "architect": "McKinney York Architects",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "../completed/banking/images/FrostBankEastAustin_03.jpg",
+      "../completed/banking/images/FrostBankEastAustin_02.jpg"
+    ]
+  },
+  {
+    "project": "Eanes ISD",
+    "url": "http://www.baileyelliott.com/current/Eanes.html",
+    "category": "current",
+    "address": "4101 Bee Creek Road, 4300 and 1110 Westbank Drive, Westlake, Texas",
+    "size": "28,750 SF",
+    "cost": "$9,216,000",
+    "description": "Site Improvements including parking and lighting. Ground up two story district operations center, transportation buidling including bus bay and addition to warehouse.",
+    "owner": "Eanes ISD",
+    "architect": "Fields and Associates",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "../completed/churches/images/EanesISD_03.jpg",
+      "../completed/churches/images/EanesISD_05.jpg",
+      "../completed/churches/images/EanesISD_04.jpg",
+      "../completed/churches/images/EanesISD_02.jpg"
+    ]
+  },
+  {
+    "project": "Covert Hippoplex",
+    "url": "http://www.baileyelliott.com/completed/automotive/CovertHippoplex.html",
+    "category": "automotive",
+    "address": "10301 Highway 79, Hutto, Texas 78634",
+    "size": "75,000 SF",
+    "cost": "NotAvailable",
+    "description": "Design/build three showroom buildings, two service and parts buildings, and car wash building. 75,000 SF. Site work.",
+    "owner": "Duke, Rox, Danay Covert",
+    "architect": "Duke Garwood Architects",
+    "architectWebsite": "www.dukegarwoodarchitects.com",
+    "images": [
+      "images/CovertHippoplex_03.jpg",
+      "images/CovertHippoplex_02.jpg"
+    ]
+  },
+  {
+    "project": "Land Rover of Austin",
+    "url": "http://www.baileyelliott.com/completed/automotive/LandRover.html",
+    "category": "automotive",
+    "address": "1515 W. 5th Street, Austin, TX",
+    "size": "NotAvailable",
+    "cost": "NotAvailable",
+    "description": "Phase 1: Dealership building Phase 2: Three-level parking garage addition to existing dealership",
+    "owner": "Algonquin Realty, Inc.",
+    "architect": "Fatter & Evan Architects, Inc.",
+    "architectWebsite": "www.fatterevans.com",
+    "images": [
+      "images/LandRover_04.jpg",
+      "images/LandRover_03.jpg",
+      "images/LandRover_06.jpg",
+      "images/LandRover_02.jpg",
+      "images/LandRover_07.jpg"
+    ]
+  },
+  {
+    "project": "Charles Maund Toyota",
+    "url": "http://www.baileyelliott.com/completed/automotive/CharlesMaundToyota.html",
+    "category": "automotive",
+    "address": "8400 Research Blvd., Austin, TX",
+    "size": "NotAvailable",
+    "cost": "$2,000,000",
+    "description": "Addition and remodel to existing facility",
+    "owner": "Maund Automotive Group",
+    "architect": "Cornerstone Group Architects",
+    "architectWebsite": "www.cgapartners.net",
+    "images": [
+      "images/MaundToyota_05.jpg",
+      "images/MaundToyota_02.jpg",
+      "images/MaundToyota_03.jpg",
+      "images/MaundToyota_04.jpg",
+      "images/MaundToyota_06.jpg"
+    ]
+  },
+  {
+    "project": "Charles Maund Volkswagen",
+    "url": "http://www.baileyelliott.com/completed/automotive/CharlesMaundVW.html",
+    "category": "automotive",
+    "address": "6900 Burnet Road, Austin, TX 78757",
+    "size": "6,000 SF",
+    "cost": "$1,300,000",
+    "description": "Showroom expansion and remodel",
+    "owner": "Maund Automotive Group",
+    "architect": "Cornerstone Group Architects",
+    "architectWebsite": "www.cgapartners.net",
+    "images": [
+      "images/MaundVW_04.jpg",
+      "images/MaundVW_05.jpg",
+      "images/MaundVW_02.jpg",
+      "images/MaundVW_03.jpg"
+    ]
+  },
+  {
+    "project": "Jaguar Land Rover",
+    "url": "http://www.baileyelliott.com/completed/automotive/JaguarLandRover.html",
+    "category": "automotive",
+    "address": "1515 W. 5th Street, Austin, Texas 78703",
+    "size": "65,000SF",
+    "cost": "$4,900,000",
+    "description": "10,400SF Jaguar Showroom Addition with a 54,700 SF Parking Garage",
+    "owner": "Jaguar Land Rover of Austin",
+    "architect": "GSC Architects",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/JLR_04.jpg",
+      "images/JLR_05.jpg",
+      "images/JLR_03.jpg",
+      "images/JLR_02.jpg"
+    ]
+  },
+  {
+    "project": "First State Bank \nBuda",
+    "url": "http://www.baileyelliott.com/completed/banking/FirstStateBank.html",
+    "category": "banking",
+    "address": "1115 A Main Street, Buda, TX",
+    "size": "6,284 SF",
+    "cost": "$1,120,000",
+    "description": "Drive-thru branch bank facility and shell office building. Steel & wood frame with stone masonry.",
+    "owner": "FSBT Properties",
+    "architect": "Enviroplan Architects, Inc.",
+    "architectWebsite": "www.enviroplanarchitects.com",
+    "images": [
+      "images/Firststatebank_03.jpg",
+      "images/Firststatebank_02.jpg",
+      "images/Firststatebank_05.jpg",
+      "images/Firststatebank_04.jpg"
+    ]
+  },
+  {
+    "project": "Frost Bank La Frontera",
+    "url": "http://www.baileyelliott.com/completed/banking/FrostBankLaFrontera.html",
+    "category": "banking",
+    "address": "2710 La Frontera Blvd. Round Rock, TX",
+    "size": "4,400 SF",
+    "cost": "$1,200,000",
+    "description": "Branch bank drive-through facility. Steel frame with cut stone, plaster and glass exteriors.",
+    "owner": "Frost National Bank",
+    "architect": "Cottam Hargrave Architects",
+    "architectWebsite": "www.cottamhargrave.com",
+    "images": [
+      "images/Frostbanklafronteria_07.jpg",
+      "images/Frostbanklafronteria_06.jpg",
+      "images/Frostbanklafronteria_03.jpg",
+      "images/Frostbanklafronteria_04.jpg",
+      "images/Frostbanklafronteria_02.jpg"
+    ]
+  },
+  {
+    "project": "Frost Bank Pecan Park",
+    "url": "http://www.baileyelliott.com/completed/banking/FrostBankPecanPark.html",
+    "category": "banking",
+    "address": "10915 Pecan Park, Austin, TX",
+    "size": "4,000 SF",
+    "cost": "NotAvailable",
+    "description": "Drive-through bank facility. Steel frame with stone and plaster veneer.",
+    "owner": "Frost Bank",
+    "architect": "Graeber, Simmons and Cowan",
+    "architectWebsite": "www.gsc-inc.com",
+    "images": [
+      "images/Frostbankpecanpark_03.jpg",
+      "images/Frostbankpecanpark_02.jpg",
+      "images/Frostbankpecanpark_04.jpg"
+    ]
+  },
+  {
+    "project": "Wells Fargo\n620 & 2222",
+    "url": "http://www.baileyelliott.com/completed/banking/WellsFargo620-2222.html",
+    "category": "banking",
+    "address": "RR 620 & 2222, Austin, TX",
+    "size": "5,600 SF",
+    "cost": "NotAvailable",
+    "description": "Structural steel frame with stone venner, standing seem roof.",
+    "owner": "Wells Fargo Corporate",
+    "architect": "Barbee Associates, Inc.",
+    "architectWebsite": "www.barbeeinc.com",
+    "images": [
+      "images/Wellsfargo620-2222_03.jpg",
+      "images/Wellsfargo620-2222_02.jpg",
+      "images/Wellsfargo620-2222_04.jpg"
+    ]
+  },
+  {
+    "project": "Wells Fargo Brodie",
+    "url": "http://www.baileyelliott.com/completed/banking/WellsFargoBrodie.html",
+    "category": "banking",
+    "address": "9908 Brodie Ln., Austin, TX",
+    "size": "4,380 SF",
+    "cost": "$900,000",
+    "description": "Drive-through branch bank facility and sitework. Steel and wood frame with stone masonry.",
+    "owner": "Wells Fargo Corporate",
+    "architect": "Alexander + Associates",
+    "architectWebsite": "www.aa-arch.com",
+    "images": [
+      "images/Wellsfargobrodie_04.jpg",
+      "images/Wellsfargobrodie_06.jpg",
+      "images/Wellsfargobrodie_03.jpg",
+      "images/Wellsfargobrodie_05.jpg",
+      "images/Wellsfargobrodie_02.jpg"
+    ]
+  },
+  {
+    "project": "Wells Fargo Parmer",
+    "url": "http://www.baileyelliott.com/completed/banking/WellsFargoParmer.html",
+    "category": "banking",
+    "address": "1601 Parmer Ln., Austin, TX",
+    "size": "4,030 SF",
+    "cost": "$1,052,000",
+    "description": "Drive-through branch bank facility. Steel and wood frame with stone masonry.",
+    "owner": "Wells Fargo Corporate",
+    "architect": "Alexander + Associates",
+    "architectWebsite": "www.aa-arch.com",
+    "images": [
+      "images/Wellsfargoparmer_03.jpg",
+      "images/Wellsfargoparmer_02.jpg"
+    ]
+  },
+  {
+    "project": "Frost Bank - Tarrytown",
+    "url": "http://www.baileyelliott.com/completed/banking/frosttarrytown.html",
+    "category": "banking",
+    "address": "2425 Exposition Blvd., Austin, TX",
+    "size": "3,121 SF",
+    "cost": "$431,500",
+    "description": "Remodel of an existing space to a bank. Tenant finish includes high end millwork, masonry walls, and wood flooring.",
+    "owner": "Frost Bank",
+    "architect": "McKinney York Architects",
+    "architectWebsite": "www.mckinneyyork.com",
+    "images": [
+      "images/Frost_tarrytown_10.jpg",
+      "images/Frost_tarrytown_11.jpg",
+      "images/Frost_tarrytown_08.jpg",
+      "images/Frost_tarrytown_09.jpg",
+      "images/Frost_tarrytown_05.jpg",
+      "images/Frost_tarrytown_03.jpg",
+      "images/Frost_tarrytown_07.jpg",
+      "images/Frost_tarrytown_06.jpg",
+      "images/Frost_tarrytown_04.jpg",
+      "images/Frost_tarrytown_02.jpg"
+    ]
+  },
+  {
+    "project": "Frost Bank - Cedar Park",
+    "url": "http://www.baileyelliott.com/completed/banking/Frostbankcp.html",
+    "category": "banking",
+    "address": "1450 E. Whitestone Blvd., Cedar Park, TX",
+    "size": "4,494 SF",
+    "cost": "1.85M",
+    "description": "Ground up drive through bank with structural steel, plaster, and smooth faced cut limestone veneer.",
+    "owner": "The Frost National Bank T-11 Properties",
+    "architect": "Chesney Morales & Associates, Inc.",
+    "architectWebsite": "http://www.cma-architects.com/",
+    "images": [
+      "images/Frostbackcedarpark_02.jpg",
+      "images/Frostbackcedarpark_05.jpg",
+      "images/Frostbackcedarpark_04.jpg",
+      "images/Frostbackcedarpark_03.jpg"
+    ]
+  },
+  {
+    "project": "Frost Bank - William Cannon",
+    "url": "http://www.baileyelliott.com/completed/banking/FrostBankWilliamCannon.html",
+    "category": "banking",
+    "address": "4301 W. William Cannon Dr., Bldg. I, Austin, Texas",
+    "size": "3,753 SF",
+    "cost": "$370,000",
+    "description": "Remodel of an existing bank to include Frost finishes including all new glazing, millwork, flooring, ceiling, and paint.",
+    "owner": "Frost Bank National Bank T-11 Properties",
+    "architect": "McKinney York Architects",
+    "architectWebsite": "http://mckinneyyork.com/",
+    "images": [
+      "images/FrostBankWilliamCannon_02.jpg",
+      "images/FrostBankWilliamCannon_06.jpg",
+      "images/FrostBankWilliamCannon_04.jpg",
+      "images/FrostBankWilliamCannon_05.jpg",
+      "images/FrostBankWilliamCannon_07.jpg",
+      "images/FrostBankWilliamCannon_03.jpg"
+    ]
+  },
+  {
+    "project": "Broadway Bank ",
+    "url": "http://www.baileyelliott.com/completed/banking/BroadwayBank.html",
+    "category": "banking",
+    "address": "911 West 38th, Austin, TX 78704",
+    "size": "4,618SF",
+    "cost": "$681,000",
+    "description": "Bank tenant finish",
+    "owner": "Broadway Bank",
+    "architect": "Chesney Morales & Associates",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/none.jpg"
+    ]
+  },
+  {
+    "project": "RBFCU Whitestone",
+    "url": "http://www.baileyelliott.com/completed/banking/RBFCU-Whitestone.html",
+    "category": "banking",
+    "address": "3201 E. Whitestone Blvd.,Cedar Park, TX",
+    "size": "4,048 SF",
+    "cost": "$1.3 Million",
+    "description": "Ground up Credit Union including sitework, wood and steel framing, masonry and stucco veneer.",
+    "owner": "Randolph Brooks Federal Credit Union",
+    "architect": "Chesney Morales Architects",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/RBFCUWhitestone_02.jpg",
+      "images/RBFCUWhitestone_04.jpg",
+      "images/RBFCUWhitestone_03.jpg",
+      "images/RBFCUWhitestone_05.jpg"
+    ]
+  },
+  {
+    "project": "Frost Bank Bee Caves",
+    "url": "http://www.baileyelliott.com/completed/banking/FrostBankBeeCaves.html",
+    "category": "banking",
+    "address": "12532 FM 2244 Rd, Suite 150, Bee Caves, Texas",
+    "size": "3,221 SF",
+    "cost": "$550,000",
+    "description": "Bank tenant finish",
+    "owner": "Frost Bank T-11 Properties",
+    "architect": "McKinney York Architects",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/FrostBankBeeCaves_02.jpg",
+      "images/FrostBankBeeCaves_03.jpg"
+    ]
+  },
+  {
+    "project": "Frost Bank - North Austin",
+    "url": "http://www.baileyelliott.com/completed/banking/FrostBankNorthAustin.html",
+    "category": "banking",
+    "address": "111 Anderson Lane, Round Rock, Texas",
+    "size": "2,370SF",
+    "cost": "$1,116,000",
+    "description": "Addition and remodel of existing bank.",
+    "owner": "The Frost National Bank T-11 Properties",
+    "architect": "McKinney York Architects",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/FrostBankNorthAustin_04.jpg",
+      "images/FrostBankNorthAustin_03.jpg",
+      "images/FrostBankNorthAustin_05.jpg",
+      "images/FrostBankNorthAustin_02.jpg"
+    ]
+  },
+  {
+    "project": "Dripping Springs United Methodist Church",
+    "url": "http://www.baileyelliott.com/completed/churches/DrippingSpringsUMC.html",
+    "category": "churches",
+    "address": "28900 Ranch Rd. #12, Dripping Springs, TX",
+    "size": "12,032 SF",
+    "cost": "NotAvailable",
+    "description": "Wood frame classroom addition and remodel.",
+    "owner": "Bob Richardson Building Committee Chair",
+    "architect": "Duke Garwood Architects",
+    "architectWebsite": "www.dukegarwoodarchitects.com",
+    "images": [
+      "images/Drippingspringsumc_04.jpg",
+      "images/drippingspringsumc_02.jpg",
+      "images/Drippingspringsumc_06.jpg",
+      "images/Drippingspringsumc_03.jpg",
+      "images/Drippingspringsumc_05.jpg"
+    ]
+  },
+  {
+    "project": "First Prespyterian Church",
+    "url": "http://www.baileyelliott.com/completed/churches/FirstPrespyterianChurch.html",
+    "category": "churches",
+    "address": "703 Church Street, Georgetown, TX 78626",
+    "size": "2,200 SF New and 17,000 SF Remodel",
+    "cost": "NotAvailable",
+    "description": "2,200 SF new classroom addition with 17,000 SF remodel of existing facility, including adding fire sprinklers and alarm system.",
+    "owner": "First Presbyterian Church",
+    "architect": "Jackson Galloway Associates",
+    "architectWebsite": "www.jacksongalloway.com",
+    "images": [
+      "images/1stpresbyterian_02.jpg",
+      "images/1stpresbyterian_03.jpg"
+    ]
+  },
+  {
+    "project": "Peace Lutheran Church",
+    "url": "http://www.baileyelliott.com/completed/churches/PeaceLutheranChurch.html",
+    "category": "churches",
+    "address": "10625 RM 620, Austin, TX",
+    "size": "NotAvailable",
+    "cost": "NotAvailable",
+    "description": "Phase I: Remodel existing building for sanctuary and Narthex Additon. Phase II: New education building.",
+    "owner": "Peace Lutheran Church",
+    "architect": "Duke Garwood Architects",
+    "architectWebsite": "www.dukegarwoodarchitects.com",
+    "images": [
+      "images/peacelutheran_02.jpg",
+      "images/Peacelutheran_03.jpg"
+    ]
+  },
+  {
+    "project": "Queen of Angels Chapel",
+    "url": "http://www.baileyelliott.com/completed/churches/QueenofAngelsChapel.html",
+    "category": "churches",
+    "address": "20600 Siesta Shores Drive Spicewood, TX 78669",
+    "size": "5,500 SF",
+    "cost": "$900,000",
+    "description": "Wood-frames concrete roof tile 274-seat chapel and bell tower.",
+    "owner": "Diocese of the Roman Catholic Church",
+    "architect": "Sixth River Architects",
+    "architectWebsite": "www.sixthriver.com",
+    "images": [
+      "images/Queenofangels_02.jpg",
+      "images/Queenofangels_04.jpg",
+      "images/Queenofangels_03.jpg"
+    ]
+  },
+  {
+    "project": "Redeemer Lutheran Church",
+    "url": "http://www.baileyelliott.com/completed/churches/RedeemerLutheranChurch.html",
+    "category": "churches",
+    "address": "1500 W. Anderson Ln. Austin, TX",
+    "size": "NotAvailable",
+    "cost": "NotAvailable",
+    "description": "Addition and remodel of sanctuary, including major HVAC, lighting, theatrical lighting, audio and video systems.",
+    "owner": "Redeemer Lutheran Church",
+    "architect": "TEW Assoicates, Architects/ Planners",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/Redeemerlutheran_04.jpg",
+      "images/Redeemerlutheran_06.jpg"
+    ]
+  },
+  {
+    "project": "Wimberley UMC",
+    "url": "http://www.baileyelliott.com/completed/churches/WimberleyUMC.html",
+    "category": "churches",
+    "address": "960 County Rd. 1492, Wimberley, TX",
+    "size": "12,000 SF",
+    "cost": "$1,220,000",
+    "description": "Wood-framed 290-seat sanctuary and administrative offices addition.",
+    "owner": "Wimberley UMC",
+    "architect": "Duke Garwood Architects",
+    "architectWebsite": "www.dukegarwoodarchitects.com",
+    "images": [
+      "images/wimberlyumc_08.jpg",
+      "images/wimberlyumc_09.jpg",
+      "images/wimberlyumc_06.jpg",
+      "images/wimberlyumc_11.jpg",
+      "images/wimberlyumc_05.jpg",
+      "images/wimberlyumc_07.jpg",
+      "images/wimberlyumc_03.jpg",
+      "images/wimberlyumc_02.jpg",
+      "images/wimberlyumc_10.jpg",
+      "images/wimberlyumc_04.jpg"
+    ]
+  },
+  {
+    "project": "Fellowship Baptist Church",
+    "url": "http://www.baileyelliott.com/completed/churches/FellowshipBaptistChurch.html",
+    "category": "churches",
+    "address": "3600 RR 1869 Liberty Hill, TX 78642",
+    "size": "10,805 SF",
+    "cost": "$706,972",
+    "description": "2nd floor finish out & new elevator with lobby.",
+    "owner": "Fellowship Baptist Church",
+    "architect": "Griffin + Jacobson Architects",
+    "architectWebsite": "www.griffinjacobson.com",
+    "images": [
+      "images/FellowshipBaptist_02.jpg",
+      "images/FellowshipBaptist_06.jpg",
+      "images/FellowshipBaptist_03.jpg",
+      "images/FellowshipBaptist_05.jpg",
+      "images/FellowshipBaptist_04.jpg"
+    ]
+  },
+  {
+    "project": "Main Street Baptist Church - Ministry Center Finish Out",
+    "url": "http://www.baileyelliott.com/completed/churches/msbc.html",
+    "category": "churches",
+    "address": "111 West 10th Street, Georgetown, TX",
+    "size": "17,675",
+    "cost": "$645,000",
+    "description": "Phase II - Ministry Center Finish Out, including High R ceiling, multipurpose room, dressing rooms, baptistery, and foyer.",
+    "owner": "Main Street Baptist Church",
+    "architect": "Griffin + Jacobson Architects, LLC",
+    "architectWebsite": "www.griffinjacobson.com",
+    "images": [
+      "images/msbc_05.JPG",
+      "images/msbc_04.JPG",
+      "images/msbc_03.JPG",
+      "images/msbc_06.JPG",
+      "images/msbc_07.JPG",
+      "images/msbc_02.JPG"
+    ]
+  },
+  {
+    "project": "TCESD #5 - Fire Station",
+    "url": "http://www.baileyelliott.com/completed/churches/TCESD5.html",
+    "category": "churches",
+    "address": "665 FM 1626, Manchaca, TX",
+    "size": "11,874 SF",
+    "cost": "$2,900,000",
+    "description": "Design/Build Fire Station with Administration. Designed with a hill country feel including stone veneer and metal roofing with a pre-engineered metal building for the bays and wood framing for the living and administration.",
+    "owner": "Travis County Emergency Services District",
+    "architect": "NotAvailable",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/TCESD5_05.jpg",
+      "images/TCESD5_03.jpg",
+      "images/TCESD5_04.jpg",
+      "images/TCESD5_06.jpg",
+      "images/TCESD5_07.jpg",
+      "images/TCESD5_09.jpg",
+      "images/TCESD5_08.jpg"
+    ]
+  },
+  {
+    "project": "Abacus School of Austin",
+    "url": "http://www.baileyelliott.com/completed/churches/AbacusSchool.html",
+    "category": "churches",
+    "address": "14115 Avery Ranch Boulevard, Austin, TX",
+    "size": "2,300SF",
+    "cost": "$564,174",
+    "description": "Addition to existing school",
+    "owner": "Abacus School of Austin",
+    "architect": "Design/Build",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/Abacus_04.jpg",
+      "images/Abacus_03.jpg",
+      "images/Abacus_02.jpg",
+      "images/Abacus_05.jpg"
+    ]
+  },
+  {
+    "project": "Magellan International School, Phase II",
+    "url": "http://www.baileyelliott.com/completed/churches/MagellanPhaseII.html",
+    "category": "churches",
+    "address": "7938 Great Northern Blvd., Austin, TX 78757",
+    "size": "13,186 SF",
+    "cost": "$304,000",
+    "description": "2nd phase of an interior remodel expansion.",
+    "owner": "Magellan International School",
+    "architect": "J Square Architects",
+    "architectWebsite": "http://www. jsquarearch.com",
+    "images": [
+      "images/MagellanPhaseII_04.jpg",
+      "images/MagellanPhaseII_03.jpg",
+      "images/MagellanPhaseII_02.jpg",
+      "images/MagellanPhaseII_05.jpg"
+    ]
+  },
+  {
+    "project": "TCESD #2 - Fire Station",
+    "url": "http://www.baileyelliott.com/completed/churches/TCESD2.html",
+    "category": "churches",
+    "address": "201 East Pecan Street, Pflugerville, TX 78664",
+    "size": "2,765 SF",
+    "cost": "$250,273",
+    "description": "Design/Build - Tenant finish to an existing 2nd floor of a fire station administration building.",
+    "owner": "Travis County Emergency Services District",
+    "architect": "NotAvailable",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/TCESD2_03.jpg",
+      "images/TCESD2_02.jpg"
+    ]
+  },
+  {
+    "project": "Sun, Moon, and Stars",
+    "url": "http://www.baileyelliott.com/completed/churches/SunMoonandStars.html",
+    "category": "churches",
+    "address": "3810 S. 1st Street, Austin, TX",
+    "size": "4,075 SF",
+    "cost": "$820,830",
+    "description": "Expansion of an existing daycare including a ground up two story daycare on the 1st floor and residence on the second floor with stucco and wood facade.",
+    "owner": "Rahul and Shalini Singh",
+    "architect": "Tchen Architects",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/SunMoonandStars_02.jpg",
+      "images/SunMoonandStars_03.jpg"
+    ]
+  },
+  {
+    "project": "Austin Thyroid & Endocrinology",
+    "url": "http://www.baileyelliott.com/completed/medical/AustinThyroidEndocrinology.html",
+    "category": "medical",
+    "address": "2200 Park Bend Drive, Bldg III, Austin, TX",
+    "size": "10,000 SF",
+    "cost": "$963,000",
+    "description": "Medical tenant finish",
+    "owner": ". Ion Ratiu",
+    "architect": "Cornerstone Group Architects",
+    "architectWebsite": "www.cgapartners.net",
+    "images": [
+      "images/AustinThyroid_07.jpg",
+      "images/AustinThyroid_03.jpg",
+      "images/AustinThyroid_04.jpg",
+      "images/AustinThyroid_06.jpg",
+      "images/AustinThyroid_02.jpg",
+      "images/AustinThyroid_05.jpg",
+      "images/AustinThyroid_08.jpg",
+      "images/AustinThyroid_09.jpg",
+      "images/AustinThyroid_10.jpg",
+      "images/AustinThyroid_11.jpg"
+    ]
+  },
+  {
+    "project": "Dr. David Gordon's Office",
+    "url": "http://www.baileyelliott.com/completed/medical/DrDavidGordon.html",
+    "category": "medical",
+    "address": "300 West Ave. Austin, TX",
+    "size": "2,400 SF",
+    "cost": "NotAvailable",
+    "description": "Dental office tenant finish.",
+    "owner": "Dr. David Gordon",
+    "architect": "DLB Architects",
+    "architectWebsite": "www.dlb-architects.com",
+    "images": [
+      "images/DrDavidGordon_08.jpg",
+      "images/DrDavidGordon_09.jpg",
+      "images/DrDavidGordon_02.jpg",
+      "images/DrDavidGordon_07.jpg",
+      "images/DrDavidGordon_04.jpg",
+      "images/DrDavidGordon_06.jpg",
+      "images/DrDavidGordon_03.jpg"
+    ]
+  },
+  {
+    "project": "Dr. Kalin Kelso",
+    "url": "http://www.baileyelliott.com/completed/medical/DrKalinKelso.html",
+    "category": "medical",
+    "address": "2200 Park Bend, Bldg I, Suite 301, Austin, TX",
+    "size": "4,050 SF",
+    "cost": "NotAvailable",
+    "description": "Medical office tenant finish",
+    "owner": "Kalin Kelso M.D. P.A.",
+    "architect": "Felder Group Architects",
+    "architectWebsite": "www.feldergrp.com",
+    "images": [
+      "images/DrKalinKelso_04.jpg",
+      "images/DrKalinKelso_02.jpg",
+      "images/DrKalinKelso_03.jpg",
+      "images/DrKalinKelso_06.jpg",
+      "images/DrKalinKelso_05.jpg"
+    ]
+  },
+  {
+    "project": "Dr. Nancy Binford",
+    "url": "http://www.baileyelliott.com/completed/medical/DrNancyBinford.html",
+    "category": "medical",
+    "address": "3705 Medical Parkway, Suite 540 Austin, TX",
+    "size": "2,200 SF",
+    "cost": "NotAvailable",
+    "description": "Medical tenant finish",
+    "owner": "Lincoln and Nancy Binford",
+    "architect": "Fazio Architects",
+    "architectWebsite": "www.faziolea.com",
+    "images": [
+      "images/DrNancyBinford_05.jpg",
+      "images/DrNancyBinford_06.jpg",
+      "images/DrNancyBinford_03.jpg",
+      "images/DrNancyBinford_04.jpg",
+      "images/DrNancyBinford_02.jpg"
+    ]
+  },
+  {
+    "project": "Drs. Reinhardt & Reeves",
+    "url": "http://www.baileyelliott.com/completed/medical/DrsReinhardtReeves.html",
+    "category": "medical",
+    "address": "209 Denali Pass, Cedar Park, TX",
+    "size": "4,573 SF",
+    "cost": "$1,060,300",
+    "description": "Dental office wood framed structure with masonry veneer",
+    "owner": "Drs. Reinhardt & Reeves",
+    "architect": "DLB Architects",
+    "architectWebsite": "www.dlb-architects.com",
+    "images": [
+      "images/ReevesReinhardt_10.jpg",
+      "images/ReevesReinhardt_07.jpg",
+      "images/ReevesReinhardt_08.jpg",
+      "images/ReevesReinhardt_05.jpg",
+      "images/ReevesReinhardt_02.jpg",
+      "images/ReevesReinhardt_03.jpg",
+      "images/ReevesReinhardt_04.jpg",
+      "images/ReevesReinhardt_09.jpg",
+      "images/ReevesReinhardt_06.jpg"
+    ]
+  },
+  {
+    "project": "McNeil Medical Center",
+    "url": "http://www.baileyelliott.com/completed/medical/McNeilMedicalCenter.html",
+    "category": "medical",
+    "address": "6500 McNeil Drive Austin, TX",
+    "size": "4,900 SF",
+    "cost": "NotAvailable",
+    "description": "Wood frame with stone veneer, two-story dental office.",
+    "owner": "Dr. Justin D'Abadie",
+    "architect": "Fazio Architects",
+    "architectWebsite": "www.faziolea.com",
+    "images": [
+      "images/McNeilDental_02.jpg"
+    ]
+  },
+  {
+    "project": "Midtown Medical Plaza",
+    "url": "http://www.baileyelliott.com/completed/medical/MidtownMedicalPlaza.html",
+    "category": "medical",
+    "address": "901 W. 38th Street Austin, TX",
+    "size": "80,000 SF",
+    "cost": "$9,300,000",
+    "description": "Four-story steel-framed medical offices. Multi-level precast concrete parking garage.",
+    "owner": "Kevin Hunter",
+    "architect": "Sixth River Architects",
+    "architectWebsite": "www.sixthriver.com",
+    "images": [
+      "images/Midtown_04.jpg",
+      "images/Midtown_03.jpg",
+      "images/Midtown_02.jpg"
+    ]
+  },
+  {
+    "project": "Post Oak North",
+    "url": "http://www.baileyelliott.com/completed/medical/PostOakNorth.html",
+    "category": "medical",
+    "address": "2200 Park Bend Ave., Bldgs I, II, & III",
+    "size": "29,045 SF each",
+    "cost": "NotAvailable",
+    "description": "(3) Three-story medical office buildings",
+    "owner": "SDC Austin Communities",
+    "architect": "The Architects Office Corporation",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/PostOakNorth_03.jpg",
+      "images/PostOakNorth_02.jpg",
+      "images/PostOakNorth_04.jpg"
+    ]
+  },
+  {
+    "project": "Post Oak South",
+    "url": "http://www.baileyelliott.com/completed/medical/PostOakSouth.html",
+    "category": "medical",
+    "address": "4316 James Casey, Austin, TX",
+    "size": "10,000 SF each",
+    "cost": "NotAvailable",
+    "description": "Two-story medical office buildings",
+    "owner": "DC Austin Communities",
+    "architect": "Chiles Architects",
+    "architectWebsite": "www.chilesarchitects.com",
+    "images": [
+      "images/PostOakSouth_03.jpg"
+    ]
+  },
+  {
+    "project": "TCC Wyoming Springs",
+    "url": "http://www.baileyelliott.com/completed/medical/TCCWyomingSprings.html",
+    "category": "medical",
+    "address": "7215 Wyoming Springs Drive, Round Rock",
+    "size": "3,998 SF",
+    "cost": "$415,000",
+    "description": "Medical Tenant Finish",
+    "owner": "Texas Cardiovascular Consultants",
+    "architect": "Felder Group Architects",
+    "architectWebsite": "www.feldergrp.com",
+    "images": [
+      "images/TCCWyomingSprings_07.jpg",
+      "images/TCCWyomingSprings_05.jpg",
+      "images/TCCWyomingSprings_03.jpg",
+      "images/TCCWyomingSprings_04.jpg",
+      "images/TCCWyomingSprings_02.jpg",
+      "images/TCCWyomingSprings_06.jpg"
+    ]
+  },
+  {
+    "project": "Wyoming Springs",
+    "url": "http://www.baileyelliott.com/completed/medical/WyomingSprings.html",
+    "category": "medical",
+    "address": "7215 Wyoming Springs Drive, Round Rock",
+    "size": "NotAvailable",
+    "cost": "$1,789,000",
+    "description": "(3) Medical Shell Buildings with Stucco and Stone Fa\u00e7ade",
+    "owner": "Ehrlich Realty Corporation",
+    "architect": "Hatch + Ulland Owens",
+    "architectWebsite": "www.huoarchitects.com",
+    "images": [
+      "images/WyomingSprings_03.jpg",
+      "images/WyomingSprings_04.jpg",
+      "images/WyomingSprings_05.jpg",
+      "images/WyomingSprings_02.jpg"
+    ]
+  },
+  {
+    "project": "Central Endodontic Specialists",
+    "url": "http://www.baileyelliott.com/completed/medical/McGuire.html",
+    "category": "medical",
+    "address": "901 W. 38th St., Suite 409, Austin, TX",
+    "size": "NotAvailable",
+    "cost": "$207,000",
+    "description": "Dental tenant finish",
+    "owner": "Richardson L. McGuire, DDS, MSD",
+    "architect": "Cotton-Design-Associates",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/McGuire_08.jpg",
+      "images/McGuire_04.jpg",
+      "images/McGuire_06.jpg",
+      "images/McGuire_03.jpg",
+      "images/McGuire_02.jpg",
+      "images/McGuire_09.jpg",
+      "images/McGuire_07.jpg",
+      "images/McGuire_05.jpg"
+    ]
+  },
+  {
+    "project": "Advanced Eye Care",
+    "url": "http://www.baileyelliott.com/completed/medical/AdvancedEyeCare.html",
+    "category": "medical",
+    "address": "501 E. Palm Valley, Round Rock, TX",
+    "size": "9,225 SF",
+    "cost": "$2,076,083",
+    "description": "Ground-up eye care center with masonry & stucco veneer with full interior finishes.",
+    "owner": "Drs. Javier and Debbie Zamora",
+    "architect": "Eckols & Associates",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/advancedeye_05.jpg",
+      "images/advancedeye_11.jpg",
+      "images/advancedeye_08.jpg",
+      "images/advancedeye_03.jpg",
+      "images/advancedeye_06.jpg",
+      "images/advancedeye_02.jpg",
+      "images/advancedeye_04.jpg",
+      "images/advancedeye_09.jpg",
+      "images/advancedeye_07.jpg",
+      "images/advancedeye_10.jpg",
+      "images/advancedeye_12.jpg"
+    ]
+  },
+  {
+    "project": "Marbridge - Bridges at the Villa",
+    "url": "http://www.baileyelliott.com/completed/medical/marbridge.html",
+    "category": "medical",
+    "address": "2504 Bliss Spillar Road, Manchaca, TX",
+    "size": "7,253 SF",
+    "cost": "$385,600",
+    "description": "Conversion of an existing residence into a high-end 6-bed Skilled Nursing Rehabilitation Facility modeled after the Green House Concept.",
+    "owner": "Marbridge Foundation, Inc.",
+    "architect": "Ryan Street and Associates",
+    "architectWebsite": "www.rsassoc.com",
+    "images": [
+      "images/marbridge_14.jpg",
+      "images/marbridge_16.jpg",
+      "images/marbridge_13.jpg",
+      "images/marbridge_09.jpg",
+      "images/marbridge_10.jpg",
+      "images/marbridge_15.jpg",
+      "images/marbridge_04.jpg",
+      "images/marbridge_08.jpg",
+      "images/marbridge_06.jpg",
+      "images/marbridge_07.jpg",
+      "images/marbridge_05.jpg",
+      "images/marbridge_12.jpg",
+      "images/marbridge_11.jpg",
+      "images/marbridge_02.jpg",
+      "images/marbridge_03.jpg"
+    ]
+  },
+  {
+    "project": "Lakeway Eye Physicians and Surgeons",
+    "url": "http://www.baileyelliott.com/completed/medical/lakeway.html",
+    "category": "medical",
+    "address": "1007 RR 620 South, Lakeway, TX",
+    "size": "4,370 SF",
+    "cost": "$195,000",
+    "description": "First floor medical finishout and addition. Transforming existing Franklin Bank tenant space into a state of the art eye care and procedure center.",
+    "owner": "Corina A. Stancey M.D.",
+    "architect": "Architecture 365",
+    "architectWebsite": "www.architecture365.com",
+    "images": [
+      "images/lakewayeye_03.jpg",
+      "images/lakewayeye_04.jpg",
+      "images/lakewayeye_06.jpg",
+      "images/lakewayeye_05.jpg",
+      "images/lakewayeye_02.jpg"
+    ]
+  },
+  {
+    "project": "Austin Gastroenterology",
+    "url": "http://www.baileyelliott.com/completed/medical/Austingastro.htm",
+    "category": "medical",
+    "address": "8015 Shoal Creek Boulevard",
+    "size": "3,230SF",
+    "cost": "$228,000",
+    "description": "Revnovation of existing space into medical office tenant finish",
+    "owner": "Austin Gastroenterology",
+    "architect": "Schneider Halls",
+    "architectWebsite": "www.schneiderhalls.com",
+    "images": []
+  },
+  {
+    "project": "911 W. 38th ",
+    "url": "http://www.baileyelliott.com/completed/medical/911W.38th.html",
+    "category": "medical",
+    "address": "911 West 38th, Austin, TX",
+    "size": "61,000 SF",
+    "cost": "NotAvailable",
+    "description": "Four story medical office building",
+    "owner": "Camco Building IV LLC",
+    "architect": "Sixth River Architects",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/911W.38th_03.jpg",
+      "images/911W.38th_04.jpg",
+      "images/911W.38th_02.jpg",
+      "images/911W.38th_05.jpg"
+    ]
+  },
+  {
+    "project": "The Urology Team",
+    "url": "http://www.baileyelliott.com/completed/medical/UrologyTeam.html",
+    "category": "medical",
+    "address": "15534 RM 620 N., Austin, Texas",
+    "size": "6,954 SF",
+    "cost": "$1,126,000",
+    "description": "Ground up shell building with medical tenant finish out.",
+    "owner": "UTPA Properties, LLC.",
+    "architect": "N-Vizion",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/UrologyTeam_02.jpg",
+      "images/UrologyTeam_04.jpg",
+      "images/UrologyTeam_03.jpg",
+      "images/UrologyTeam_05.jpg"
+    ]
+  },
+  {
+    "project": "TX-HyGIeaCare",
+    "url": "http://www.baileyelliott.com/completed/medical/HyGIeaCare.html",
+    "category": "medical",
+    "address": "9211 Waterford Centre Blvd., Suite 200, Austin, Texas",
+    "size": "3,035SF",
+    "cost": "$321,000",
+    "description": "Tennant finish-out for Austin Gastro Colon Prep area.",
+    "owner": "TX-HyGIeaCare, LLC.",
+    "architect": "Polkinghorn Group Architects, Inc.",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/HyGIeaCare_04.jpg",
+      "images/HyGIeaCare_03.jpg",
+      "images/HyGIeaCare_05.jpg",
+      "images/HyGIeaCare_02.jpg"
+    ]
+  },
+  {
+    "project": "Hamamcy Dental",
+    "url": "http://www.baileyelliott.com/completed/medical/HamamcyDental.html",
+    "category": "medical",
+    "address": "15534 RM 620 North, Round Rock, Texas",
+    "size": "2,432SF",
+    "cost": "$291,000",
+    "description": "Tennant finish-out dental office.",
+    "owner": "STH PLLC",
+    "architect": "Stephen J. Kramer Architecture Design",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/HamamcyDental_02.jpg",
+      "images/HamamcyDental_03.jpg"
+    ]
+  },
+  {
+    "project": "ANTX",
+    "url": "http://www.baileyelliott.com/completed/office/ANTX.html",
+    "category": "office",
+    "address": "3005 Glacier Pass, Cedar Park, TX",
+    "size": "4,365 SF",
+    "cost": "$694,600",
+    "description": "Office building, wood frame with masonry and siding veneer.",
+    "owner": "Stephen Allen",
+    "architect": "Fazio Architects",
+    "architectWebsite": "www.faziolea.com",
+    "images": [
+      "images/ANTX_06.jpg",
+      "images/ANTX_03.jpg",
+      "images/ANTX_02.jpg",
+      "images/ANTX_05.jpg",
+      "images/ANTX_04.jpg"
+    ]
+  },
+  {
+    "project": "Barton Place Marketing",
+    "url": "http://www.baileyelliott.com/completed/office/BartonPlaceMarketing.html",
+    "category": "office",
+    "address": "1600 Barton Springs, Austin, TX",
+    "size": "1,520 SF",
+    "cost": "NotAvailable",
+    "description": "Tenant finish remodel for a condo marketing center",
+    "owner": "Constructive Ventures",
+    "architect": "BOKA Powell, LLC Architecture",
+    "architectWebsite": "www.bokapowell.com",
+    "images": [
+      "../../images/head_testimonials.gif",
+      "images/BartonPlaceMarketing_04.jpg",
+      "images/BartonPlaceMarketing_08.jpg",
+      "images/BartonPlaceMarketing_02.jpg",
+      "images/BartonPlaceMarketing_06.jpg",
+      "images/BartonPlaceMarketing_05.jpg",
+      "images/BartonPlaceMarketing_03.jpg"
+    ]
+  },
+  {
+    "project": "Davenport Village",
+    "url": "http://www.baileyelliott.com/completed/office/DavenportVillage.html",
+    "category": "office",
+    "address": "4265 West Lake Drive, Austin, TX",
+    "size": "59,000 SF",
+    "cost": "NotAvailable",
+    "description": "Phase I - Retail and office buildings, structural steel, stone and EIFS.",
+    "owner": "D.V. Partners",
+    "architect": "Enviroplan Architects, Inc.",
+    "architectWebsite": "www.enviroplanarchitects.com",
+    "images": [
+      "images/DavenportVillage_06.jpg",
+      "images/DavenportVillage_02.jpg",
+      "images/DavenportVillage_05.jpg",
+      "images/DavenportVillage_04.jpg",
+      "images/DavenportVillage_03.jpg"
+    ]
+  },
+  {
+    "project": "Emergent Technologies",
+    "url": "http://www.baileyelliott.com/completed/office/EmergentTechnologies.html",
+    "category": "office",
+    "address": "2508 Ashley Worth Blvd., Ste 200, Austin, TX",
+    "size": "14,232 SF",
+    "cost": "$808,346",
+    "description": "Tenant Finish",
+    "owner": "Emergent Technologies",
+    "architect": "N-VIZION Design, LLC",
+    "architectWebsite": "www.nvizion.net",
+    "images": [
+      "images/EmergentTechnologies_02.jpg",
+      "images/EmergentTechnologies_06.jpg",
+      "images/EmergentTechnologies_04.jpg",
+      "images/EmergentTechnologies_05.jpg",
+      "images/EmergentTechnologies_03.jpg"
+    ]
+  },
+  {
+    "project": "First American Title",
+    "url": "http://www.baileyelliott.com/completed/office/FirstAmericanTitle.html",
+    "category": "office",
+    "address": "12117 Bee Caves Rd., Bee Caves, TX",
+    "size": "NotAvailable",
+    "cost": "$271,000",
+    "description": "Tenant finish",
+    "owner": "First American Title Insurance Company",
+    "architect": "Cornerstone Group Architects",
+    "architectWebsite": "www.cgapartners.net",
+    "images": [
+      "images/FirstAmericanTitle_02.jpg",
+      "images/FirstAmericanTitle_03.jpg"
+    ]
+  },
+  {
+    "project": "Five Star Car Wash & Lube Center",
+    "url": "http://www.baileyelliott.com/completed/office/FiveStarCarWash.html",
+    "category": "office",
+    "address": "1110 RR 620 N., Lakeway, TX",
+    "size": "7,700 SF",
+    "cost": "$1,460,000",
+    "description": "Full-service car wash and lube center. Three buildings with metal roofs and split face CMU exteriors.",
+    "owner": "Chris Von Dohlen",
+    "architect": "Moman Architects",
+    "architectWebsite": "www.momanarch.com",
+    "images": [
+      "images/FiveStarCarWash_05.jpg",
+      "images/FiveStarCarWash_06.jpg",
+      "images/FiveStarCarWash_03.jpg",
+      "images/FiveStarCarWash_04.jpg",
+      "images/FiveStarCarWash_07.jpg",
+      "images/FiveStarCarWash_02.jpg"
+    ]
+  },
+  {
+    "project": "Pecan Plaza",
+    "url": "http://www.baileyelliott.com/completed/office/PecanPlaza.html",
+    "category": "office",
+    "address": "3706 Guadalupe, Austin, TX",
+    "size": "5,800 SF",
+    "cost": "NotAvailable",
+    "description": "Retail building, steel-framed with brick veneer.",
+    "owner": "John Lewis",
+    "architect": "Gary Shaw Architects",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/PecanPlaza_02.jpg"
+    ]
+  },
+  {
+    "project": "Preserve Buildings",
+    "url": "http://www.baileyelliott.com/completed/office/PreserveBuildings.html",
+    "category": "office",
+    "address": "2510 Ashley Worth Blvd Bldgs I, II, III, IV Austin, TX",
+    "size": "NotAvailable",
+    "cost": "NotAvailable",
+    "description": "Structural steel frame with masonry and plaster exterior.",
+    "owner": "Lee Combs",
+    "architect": "Enviroplan Architects, Inc.",
+    "architectWebsite": "www.enviroplanarchitects.com",
+    "images": [
+      "images/Preserve_04.jpg",
+      "images/Preserve_02.jpg",
+      "images/Preserve_03.jpg"
+    ]
+  },
+  {
+    "project": "St. Cecilia Hotel",
+    "url": "http://www.baileyelliott.com/completed/office/StCeciliaHotel.html",
+    "category": "office",
+    "address": "112 Academy Drive, Austin, TX",
+    "size": "NotAvailable",
+    "cost": "$2,191,000",
+    "description": "Boutique hotel including (3) bungalow buildings and (1) Tea Time building.",
+    "owner": "112 Academy, LLC.",
+    "architect": "Clayton, Levy, & Little Architects",
+    "architectWebsite": "www.claytonlevylittle.com",
+    "images": [
+      "images/St.CeciliaHotel_10.jpg",
+      "images/St.CeciliaHotel_07.jpg",
+      "images/St.CeciliaHotel_05.jpg",
+      "images/St.CeciliaHotel_08.jpg",
+      "images/St.CeciliaHotel_03.jpg",
+      "images/St.CeciliaHotel_04.jpg",
+      "images/St.CeciliaHotel_11.jpg",
+      "images/St.CeciliaHotel_02.jpg",
+      "images/St.CeciliaHotel_06.jpg",
+      "images/St.CeciliaHotel_09.jpg"
+    ]
+  },
+  {
+    "project": "Texas Municipal Retirement System",
+    "url": "http://www.baileyelliott.com/completed/office/TMRS.html",
+    "category": "office",
+    "address": "1200 N. IH-35, Austin, TX",
+    "size": "NotAvailable",
+    "cost": "$6,440,000",
+    "description": "Five-story structural concrete office and parking garage.",
+    "owner": "TMRS",
+    "architect": "Sixth River Architects",
+    "architectWebsite": "www.sixthriver.com",
+    "images": [
+      "images/TMRS_04.jpg",
+      "images/TMRS_05.jpg",
+      "images/TMRS_03.jpg",
+      "images/TMRS_02.jpg"
+    ]
+  },
+  {
+    "project": "Trinity Hardwoods",
+    "url": "http://www.baileyelliott.com/completed/office/TrinityHardwoods.html",
+    "category": "office",
+    "address": "6009 Dillard Circle, Austin, TX",
+    "size": "29,920 SF",
+    "cost": "$1,308,000",
+    "description": "Tiltwall Office & Warehouse",
+    "owner": "NotAvailable",
+    "architect": "Euwer & Associates",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/TrinityHardwood_03.jpg",
+      "images/TrinityHardwood_04.jpg",
+      "images/TrinityHardwood_02.jpg"
+    ]
+  },
+  {
+    "project": "Uplands Village",
+    "url": "http://www.baileyelliott.com/completed/office/UplandsVillage.html",
+    "category": "office",
+    "address": "12005 & 12101 Bee Cave Road Village of Bee Cave, TX",
+    "size": "25,600 SF",
+    "cost": "$3,486,500",
+    "description": "(4) Buildings & Pad Site for 2 Future Buildings, Stone & Plaster Veneer with Metal Roof",
+    "owner": "Carr Development, Inc.",
+    "architect": "Allan Nutt Architects",
+    "architectWebsite": "www.allannuttarchitect.com",
+    "images": [
+      "images/UplandsVillage_03.jpg",
+      "images/UplandsVillage_05.jpg",
+      "images/UplandsVillage_04.jpg",
+      "images/UplandsVillage_02.jpg"
+    ]
+  },
+  {
+    "project": "Villa di Calabria",
+    "url": "http://www.baileyelliott.com/completed/office/VilladiCalabria.html",
+    "category": "office",
+    "address": "11719 & 11805 Bee Caves Rd. Village of Bee Cave, TX",
+    "size": "NotAvailable",
+    "cost": "$1,990,000",
+    "description": "10,000 SF single-story retail building and 20,000 SF three-story office building with EIFS and stone veneer finish.",
+    "owner": "Vince Parrella",
+    "architect": "Allan Nutt Architects",
+    "architectWebsite": "www.allannuttarchitect.com",
+    "images": [
+      "images/VillaDiCalabria_03.jpg",
+      "images/VillaDiCalabria_04.jpg",
+      "images/VillaDiCalabria_02.jpg",
+      "images/VillaDiCalabria_05.jpg"
+    ]
+  },
+  {
+    "project": "Gumbo's of Westlake",
+    "url": "http://www.baileyelliott.com/completed/office/Gumbos.html",
+    "category": "office",
+    "address": "3600 North Capital of Texas Hwy, Austin, TX",
+    "size": "3,000 SF",
+    "cost": "NotAvailable",
+    "description": "Restaurant tenant finish",
+    "owner": "Michael Quigley",
+    "architect": "BEC/Owner - Design Build Project",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/Gumbos_02.jpg",
+      "images/Gumbos_08.jpg",
+      "images/Gumbos_03.jpg",
+      "images/Gumbos_04.jpg",
+      "images/Gumbos_05.jpg",
+      "images/Gumbos_06.jpg"
+    ]
+  },
+  {
+    "project": "Brodie Plaza",
+    "url": "http://www.baileyelliott.com/completed/office/BrodiePlaza.html",
+    "category": "office",
+    "address": "9001 Brodie Lane, Austin, TX",
+    "size": "30,650 SF",
+    "cost": "$3,886,000",
+    "description": "Shopping Center including 3 Buildings & Pad Site for 2 Future Buildings, Stone & Plaster Veneer with Metal Roofs",
+    "owner": "Carr Development, Inc.",
+    "architect": "Allan Nutt Architect",
+    "architectWebsite": "www.allannuttarchitect.com",
+    "images": [
+      "images/BrodiePlaza_09.jpg",
+      "images/BrodiePlaza_07.jpg",
+      "images/BrodiePlaza_08.jpg",
+      "images/BrodiePlaza_02.jpg",
+      "images/BrodiePlaza_05.jpg",
+      "images/BrodiePlaza_06.jpg",
+      "images/BrodiePlaza_03.jpg",
+      "images/BrodiePlaza_04.jpg"
+    ]
+  },
+  {
+    "project": "Yarings Facade Remodel",
+    "url": "http://www.baileyelliott.com/completed/office/Yarings.html",
+    "category": "office",
+    "address": "506 Congress Avenue, Austin, TX",
+    "size": "NotAvailable",
+    "cost": "$262,102",
+    "description": "Exterior fa\u00e7ade remodel",
+    "owner": "Yarings Building, LTD",
+    "architect": "Dick Clark Architecture",
+    "architectWebsite": "www.dcarch.com",
+    "images": [
+      "images/Yarings_02.jpg",
+      "images/Yarings_07.jpg",
+      "images/Yarings_04.jpg",
+      "images/Yarings_05.jpg",
+      "images/Yarings_06.jpg",
+      "images/Yarings_03.jpg"
+    ]
+  },
+  {
+    "project": "Tarrytown Dance Center",
+    "url": "http://www.baileyelliott.com/completed/office/tarrytowndance.html",
+    "category": "office",
+    "address": "2425 Exposition Blvd., Austin, TX",
+    "size": "2,457 SF",
+    "cost": "$123,000",
+    "description": "Remodel of existing space to a dance studio.",
+    "owner": "Tarrytown Dance Center",
+    "architect": "NotAvailable",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/Tarrytowndance_06.jpg",
+      "images/Tarrytowndance_10.jpg",
+      "images/Tarrytowndance_02.jpg",
+      "images/Tarrytowndance_07.jpg",
+      "images/Tarrytowndance_03.jpg",
+      "images/Tarrytowndance_04.jpg",
+      "images/Tarrytowndance_09.jpg",
+      "images/Tarrytowndance_11.jpg"
+    ]
+  },
+  {
+    "project": "Plumbers And Pipe Fitters \n        Local Union #286",
+    "url": "http://www.baileyelliott.com/completed/office/PPL286.html",
+    "category": "office",
+    "address": "814 Airport Blvd., Austin, TX",
+    "size": "30,000 SF",
+    "cost": "$3,510,000",
+    "description": "Ground up new offices and apprentice training facility.",
+    "owner": "Corby Shelton",
+    "architect": "Powers Brown Architecture",
+    "architectWebsite": "www.powersbrown.com",
+    "images": [
+      "images/Plumbers_06.jpg",
+      "images/Plumbers_03.jpg",
+      "images/Plumbers_04.jpg",
+      "images/Plumbers_02.jpg",
+      "images/Plumbers_05.jpg"
+    ]
+  },
+  {
+    "project": "Willow Court Retail",
+    "url": "http://www.baileyelliott.com/completed/office/Willowcourt.htm",
+    "category": "office",
+    "address": "2030 E. Oltorf St. Austin, TX",
+    "size": "1,298 SF",
+    "cost": "$184,300",
+    "description": "Thirteen hundred square foot shell retail addition.",
+    "owner": "TIG Real Estate Services",
+    "architect": "NotAvailable",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/WillowCourtRetail_3.jpg",
+      "images/WillowCourtRetail_7.jpg",
+      "images/WillowCourtRetail_2.jpg",
+      "images/WillowCourtRetail_5.jpg",
+      "images/WillowCourtRetail_4.jpg",
+      "images/WillowCourtRetail_6.jpg"
+    ]
+  },
+  {
+    "project": "Magellan International School",
+    "url": "http://www.baileyelliott.com/completed/office/Magellan.html",
+    "category": "office",
+    "address": "7938 Great Northern Blvd., Austin, TX 78757",
+    "size": "18,500SF",
+    "cost": "$285,000",
+    "description": ". Re-model of existing lease space into a private school.",
+    "owner": "Magellan International School",
+    "architect": "J Square Architecture",
+    "architectWebsite": "http://www.jsquarearch.com/",
+    "images": []
+  },
+  {
+    "project": "Umlauf Sculpture Garden & Museum",
+    "url": "http://www.baileyelliott.com/completed/office/Umlauf.html",
+    "category": "office",
+    "address": "605 Robert E. Lee Road, Austin, Texas",
+    "size": "650 sf",
+    "cost": "$60,000",
+    "description": ". Restroom addition using granite, stained conrete floors, and exterior redwood siding.",
+    "owner": "Umlauf Sculpture Garden & Musem",
+    "architect": "Steinbomer Bramwell & Vrazel Architects",
+    "architectWebsite": "http://www.steinbomer.com/",
+    "images": [
+      "images/Umlauf_02.jpg",
+      "images/Umlauf_05.jpg",
+      "images/Umlauf_03.jpg",
+      "images/Umlauf_04.jpg"
+    ]
+  },
+  {
+    "project": "Thermon Manufacturing",
+    "url": "http://www.baileyelliott.com/completed/office/Thermon.html",
+    "category": "office",
+    "address": "100 Thermon Drive, San Marcos, TX",
+    "size": "9,000 SF Office & 47,500 SF Manufacturing",
+    "cost": "$3 M",
+    "description": ". Pre-engineered metal building with interior mezzanine and elevator on post-tensioned slab. The bulk of the building will house manufacturing, and there will be some office space.",
+    "owner": "Thermon Manufacturing Company",
+    "architect": "GKZ Architects and Planners",
+    "architectWebsite": "www.gkz-arch.com",
+    "images": [
+      "images/Thermon_03.jpg",
+      "images/Thermon_05.jpg",
+      "images/Thermon_04.jpg",
+      "images/Thermon_06.jpg"
+    ]
+  },
+  {
+    "project": "Thermon Building 6",
+    "url": "http://www.baileyelliott.com/completed/office/ThermonBldg6.html",
+    "category": "office",
+    "address": "300 Barnes Drive, San Marcos, TX 78666",
+    "size": "20,000 sf remodelled area plus 5,000 sf new building addition",
+    "cost": "$1,247,000",
+    "description": "Remodeling 20,000 sf of existing industrial building and adding 5,000 sf pre-engineered metal building with new offices and manufacturing area, along with building new parking lot",
+    "owner": "Thermon Manufacturing",
+    "architect": "Ash & Associates",
+    "architectWebsite": "http://ashandassociates.net/",
+    "images": [
+      "images/ThermonBuilding6_04.jpg",
+      "images/ThermonBuilding6_03.jpg",
+      "images/ThermonBuilding6_02.jpg",
+      "images/ThermonBuilding6_05.jpg"
+    ]
+  },
+  {
+    "project": "Thermon Manufacturing Building 16",
+    "url": "http://www.baileyelliott.com/completed/office/ThermonBuilding16.html",
+    "category": "office",
+    "address": "210 Thermon Drive, San Marcos, Texas",
+    "size": "45,500SF",
+    "cost": "NotAvailable",
+    "description": "Ground up construction of 41,500 SF of warehouse space and 4,000 SF of office area. Site improvements consist of grading, detention pond, parking, truck loading/unloading, and other accessory flatwork.",
+    "owner": "Thermon Manufacturing Company",
+    "architect": "Chagnon Architecture, PLLC.",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/ThermonBuilding16_03.jpg",
+      "images/ThermonBuilding16_05.jpg",
+      "images/ThermonBuilding16_02.jpg",
+      "images/ThermonBuilding16_04.jpg"
+    ]
+  },
+  {
+    "project": "Thermon Manufacturing Building 11",
+    "url": "http://www.baileyelliott.com/completed/office/ThermonBuilding11.html",
+    "category": "office",
+    "address": "206 Thermon Drive, San Marcos, Texas",
+    "size": "25,000SF Remodel and 2,700SF Addition",
+    "cost": "NotAvailable",
+    "description": "Interior demolition and remodel of existing pre-engineered metal building and office addtion.",
+    "owner": "Thermon Manufacturing Company",
+    "architect": "Chagnon Architecture, PLLC.",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/ThermonBuilding11_03.jpg",
+      "images/ThermonBuilding11_02.jpg"
+    ]
+  },
+  {
+    "project": "Este Lofts",
+    "url": "http://www.baileyelliott.com/completed/multifamily/EsteLofts.html",
+    "category": "multifamily",
+    "address": "2235 East 6th Street, Austin, TX",
+    "size": "NotAvailable",
+    "cost": "NotAvailable",
+    "description": "Mixed-use (retail and residential) community.",
+    "owner": "2235 East Sixth LLC",
+    "architect": "Hailey Johnson Architects",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/Este_02.jpg",
+      "images/Este_04.jpg",
+      "images/Este_03.jpg",
+      "images/Este_05.jpg"
+    ]
+  },
+  {
+    "project": "Saltillo Lofts",
+    "url": "http://www.baileyelliott.com/completed/multifamily/SaltilloLofts.html",
+    "category": "multifamily",
+    "address": "1601 East 5th Street, Austin, TX",
+    "size": "NotAvailable",
+    "cost": "$4,200,000",
+    "description": "Mixed-use (retail and residential) community and 3 Star Austin Green Building.",
+    "owner": "Saltillo GP, Inc.",
+    "architect": "Hailey Johnson Architects",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/SaltilloLofts_02.jpg"
+    ]
+  },
+  {
+    "project": "Timbercreek Apartments",
+    "url": "http://www.baileyelliott.com/completed/multifamily/TimebercreekApartments.html",
+    "category": "multifamily",
+    "address": "614 South First Street, Austin, TX",
+    "size": "NotAvailable",
+    "cost": "NotAvailable",
+    "description": "Exterior Apartment Remodel & Clubhouse Remodel",
+    "owner": "H & H Texas Partners, Ltd.",
+    "architect": "NotAvailable",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/TimberCreek_04.jpg",
+      "images/TimberCreek_02.jpg",
+      "images/TimberCreek_05.jpg",
+      "images/TimberCreek_03.jpg"
+    ]
+  },
+  {
+    "project": "TwentyOne24 Condominiums",
+    "url": "http://www.baileyelliott.com/completed/multifamily/TwentyOne24.html",
+    "category": "multifamily",
+    "address": "2124 East 6th Street, Austin, TX",
+    "size": "NotAvailable",
+    "cost": "$8,470,000",
+    "description": "Mixed-use 68 unit (retail and residential) community.",
+    "owner": "TwentyOne24, LLC.",
+    "architect": "Hailey Johnson Architects",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/TwentyOne24_04.jpg",
+      "images/TwentyOne24_05.jpg",
+      "images/TwentyOne24_02.jpg",
+      "images/TwentyOne24_03.jpg"
+    ]
+  },
+  {
+    "project": "St. Cecilia Hotel",
+    "url": "http://www.baileyelliott.com/completed/multifamily/StCeciliaHotel.html",
+    "category": "multifamily",
+    "address": "112 Academy Drive, Austin, TX",
+    "size": "NotAvailable",
+    "cost": "$2,191,000",
+    "description": "Boutique hotel including (3) bungalow buildings and (1) Tea Time building.",
+    "owner": "112 Academy, LLC.",
+    "architect": "Clayton, Levy, & Little Architects",
+    "architectWebsite": "www.claytonlevylittle.com",
+    "images": [
+      "../office/images/St.CeciliaHotel_08.jpg",
+      "../office/images/St.CeciliaHotel_02.jpg",
+      "../office/images/St.CeciliaHotel_11.jpg",
+      "../office/images/St.CeciliaHotel_05.jpg",
+      "../office/images/St.CeciliaHotel_03.jpg",
+      "../office/images/St.CeciliaHotel_10.jpg",
+      "../office/images/St.CeciliaHotel_07.jpg",
+      "../office/images/St.CeciliaHotel_04.jpg",
+      "../office/images/St.CeciliaHotel_09.jpg",
+      "../office/images/St.CeciliaHotel_06.jpg"
+    ]
+  },
+  {
+    "project": "Franklin Garden Senior Housing",
+    "url": "http://www.baileyelliott.com/completed/multifamily/ChestnutCorner.html",
+    "category": "multifamily",
+    "address": "3522 East Martin Luther King Jr. Boulevard Austin, Texas 78721",
+    "size": "Approx. 15,500 SF",
+    "cost": "$2,732,305",
+    "description": "2-story, wood framed, hardi siding, metal roof, sitework and utilities, Austin Green Building 3-star rating, HUD financed",
+    "owner": "Chestnut Neighborhood Revitalization Corporation",
+    "architect": "Hatch + Ulland Owen Architects",
+    "architectWebsite": "www.hatcharch.com",
+    "images": [
+      "images/Chestnut_02.jpg",
+      "images/Chestnut_04.jpg",
+      "images/Chestnut_03.jpg",
+      "images/Chestnut_06.jpg",
+      "images/Chestnut_07.jpg",
+      "images/Chestnut_05.jpg"
+    ]
+  },
+  {
+    "project": "The Settlement Home",
+    "url": "http://www.baileyelliott.com/completed/multifamily/Settlement.html",
+    "category": "multifamily",
+    "address": "1607 Colony Creek Dr., Austin, TX",
+    "size": "Support Bldg. 5,694 SF, Apt. Bldg. 7,461 SF",
+    "cost": "$1.4 M",
+    "description": "Wood framed buildings with stucco and limestone veneer. Apartment has 12 efficiencies. Support services building has large gathering room with vaulted ceilings.",
+    "owner": "The Settlement Club",
+    "architect": "Danze & Davis Architects, Inc.",
+    "architectWebsite": "www.danze-davis.com",
+    "images": [
+      "images/Settlement_05.jpg",
+      "images/Settlement_08.jpg",
+      "images/Settlement_03.jpg",
+      "images/Settlement_09.jpg",
+      "images/Settlement_07.jpg",
+      "images/Settlement_04.jpg"
+    ]
+  },
+  {
+    "project": "M-Station",
+    "url": "http://www.baileyelliott.com/completed/multifamily/mstation.html",
+    "category": "multifamily",
+    "address": "2906 East MLK Blvd., Austin, TX 78702",
+    "size": "172,134 SF",
+    "cost": "$16,248,925",
+    "description": "Wood framed apartment complex consisting of 150 apartments in four 3 and 4 story buildings, a 2 story leasing office, and a 2 story childcare facility. The buildings were designed to minimize both energy and water use. This project is LEED Platinum Certified and received an Austin Energy Green Building 5-Star Rating. Site amenities include rainwater re-irrigation system, bioswales, and pervious concrete sidewalks are designed to minimize storm water run-off and to maximize water quality.",
+    "owner": "Foundation Communities",
+    "architect": "Hatch + Ulland Owen Architects",
+    "architectWebsite": "www.huoarchitects.com/",
+    "images": [
+      "images/mstation_05.JPG",
+      "images/mstation_07.JPG",
+      "images/mstation_06.JPG",
+      "images/mstation_02.JPG",
+      "images/mstation_08.JPG",
+      "images/mstation_03.JPG",
+      "images/mstation_04.JPG"
+    ]
+  },
+  {
+    "project": "Arbor Terrace",
+    "url": "http://www.baileyelliott.com/completed/multifamily/ArborTerrace.html",
+    "category": "multifamily",
+    "address": "2501 South IH-35, Austin, Texas",
+    "size": "3 story, 123 unit residential renovation project with about 6,000 SF of new commercial space",
+    "cost": "$3.2 million",
+    "description": "Renovation of an existing extended stay motel into one bedroom Single Room Occupancy (SRO) apartment units. The first floor contains approximately 6,000 SF of new community space for residents and staff.",
+    "owner": "Foundation Communities",
+    "architect": "Olicon Design",
+    "architectWebsite": "http://www.olicon.com/",
+    "images": [
+      "images/ArborTerrace_06.JPG",
+      "images/ArborTerrace_02.JPG",
+      "images/ArborTerrace_05.JPG",
+      "images/ArborTerrace_03.JPG",
+      "images/ArborTerrace_04.JPG",
+      "images/ArborTerrace_07.JPG"
+    ]
+  },
+  {
+    "project": "3101 E. 12th Street",
+    "url": "http://www.baileyelliott.com/completed/multifamily/3101E.12thStreet.html",
+    "category": "multifamily",
+    "address": "3101 East 12th Street, Austin, TX 78702",
+    "size": "15,318SF",
+    "cost": "$2.6 million",
+    "description": "24-unit City of Austin funded multi-family housing complex",
+    "owner": "Austin Housing Finance Corporation",
+    "architect": "McKinney York Architects",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/3101E.12thStreet_04.jpg",
+      "images/3101E.12thStreet_05.jpg",
+      "images/3101E.12thStreet_03.jpg",
+      "images/3101E.12thStreet_02.jpg"
+    ]
+  },
+  {
+    "project": "Marbridge Cottage 15",
+    "url": "http://www.baileyelliott.com/completed/multifamily/Marbridge.html",
+    "category": "multifamily",
+    "address": "2310 Bliss Spillar Road, Manchaca, TX",
+    "size": "3,000SF",
+    "cost": "$511,000",
+    "description": "3,000 sf six bedroom home",
+    "owner": "James Stacy, President of Marbridge Foundation",
+    "architect": "Ryan Street & Associates",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/MarbridgeCottage_03.jpg",
+      "images/MarbridgeCottage_02.jpg",
+      "images/MarbridgeCottage_04.jpg",
+      "images/MarbridgeCottage_05.jpg"
+    ]
+  },
+  {
+    "project": "Phi Gamma Delta Expansion",
+    "url": "http://www.baileyelliott.com/completed/multifamily/PhiGamma.html",
+    "category": "multifamily",
+    "address": "2707 Hemphill Park, Austin, Texas",
+    "size": "16,500SF Residential and 22,600SF Parking",
+    "cost": "NotAvailable",
+    "description": "New construction of multi-occupant residential and special event building. Approximately 15,500 sf. 3 level wood frame and CMU block structured residential and support rooms with a 22,600sf. 2 level concrete framed parking and outdoor terrace structure.",
+    "owner": "Purple Owl Corporation, Inc.",
+    "architect": "Overland Partners, Inc.",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/PhiGamma_02.jpg",
+      "images/PhiGamma_03.jpg",
+      "images/PhiGamma_04.jpg",
+      "images/PhiGamma_05.jpg"
+    ]
+  },
+  {
+    "project": "Marbridge Villa Enrichment Center",
+    "url": "http://www.baileyelliott.com/completed/multifamily/MarbridgeVillaEnrichmentCenter.html",
+    "category": "multifamily",
+    "address": "2310 Bliss Spillar Road, Manchaca, Texas",
+    "size": "3,000SF",
+    "cost": "NotAvailable",
+    "description": "Addition to existing nursing facility",
+    "owner": "Marbridge Foundation, Inc.",
+    "architect": "Ryan Street & Associates",
+    "architectWebsite": "NotAvailable",
+    "images": [
+      "images/MarbridgeEnrichmentCenter_03.jpg",
+      "images/MarbridgeEnrichmentCenter_05.jpg",
+      "images/MarbridgeEnrichmentCenter_04.jpg",
+      "images/MarbridgeEnrichmentCenter_02.jpg"
+    ]
+  }
+]
