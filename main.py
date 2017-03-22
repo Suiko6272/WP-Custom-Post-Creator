@@ -40,6 +40,10 @@ for item in myData:
 
 #print(masterXML)
 
+xmlFile = open('output.txt', 'w')###Open text file to write XML to
+#s = str(value)
+xmlFile.write( masterXML )
+xmlFile.close()
 
 ###Get old permalink for 301 redirect
 def Permalink_301CSV(data):
