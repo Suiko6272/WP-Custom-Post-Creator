@@ -13,9 +13,12 @@ class WPItemCreator:
     # %(owner)s #   d['owner']
     # %(architect)s #   d['architect']
     # %(architectWebsite)s #   d['architectWebsite']
+    #<title>%(project)s</title>
+    #<title><![CDATA[%(project)s]]></title>
     def CreateItem(self, itemData):
         xmlItemTemplate = """<item>
-	<title>%(project)s</title>
+	<title><![CDATA[%(project)s]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/%(slug)s/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>

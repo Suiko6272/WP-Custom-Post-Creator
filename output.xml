@@ -40,7 +40,8 @@
 
 
 	<generator>https://wordpress.org/?v=4.7.3</generator><item>
-	<title>Homestead Oaks</title>
+	<title><![CDATA[Homestead Oaks]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/homestead-oaks/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -133,7 +134,8 @@
 	</wp:postmeta>
 </item>
 <item>
-	<title>Westlake Athletic and Community Center</title>
+	<title><![CDATA[Westlake Athletic and Community Center]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/westlake-athletic-and-community-center/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -226,7 +228,8 @@
 	</wp:postmeta>
 </item>
 <item>
-	<title>Lakeline Station</title>
+	<title><![CDATA[Lakeline Station]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/lakeline-station/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -319,7 +322,8 @@
 	</wp:postmeta>
 </item>
 <item>
-	<title>Aces Warehouse</title>
+	<title><![CDATA[Aces Warehouse]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/aces-warehouse/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -412,7 +416,8 @@
 	</wp:postmeta>
 </item>
 <item>
-	<title>Kappa Sigma</title>
+	<title><![CDATA[Kappa Sigma]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/kappa-sigma/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -505,7 +510,8 @@
 	</wp:postmeta>
 </item>
 <item>
-	<title>Uplands Village Building 4</title>
+	<title><![CDATA[Uplands Village Building 4]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/uplands-village-building-4/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -598,7 +604,8 @@
 	</wp:postmeta>
 </item>
 <item>
-	<title>Kyle Animal Hospital</title>
+	<title><![CDATA[Kyle Animal Hospital]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/kyle-animal-hospital/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -691,7 +698,8 @@
 	</wp:postmeta>
 </item>
 <item>
-	<title>Bee Creek United Methodist Church</title>
+	<title><![CDATA[Bee Creek United Methodist Church]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/bee-creek-united-methodist-church/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -784,7 +792,8 @@
 	</wp:postmeta>
 </item>
 <item>
-	<title>Frost Bank - East Austin</title>
+	<title><![CDATA[Frost Bank - East Austin]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/frost-bank-east-austin/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -877,7 +886,8 @@
 	</wp:postmeta>
 </item>
 <item>
-	<title>Eanes ISD</title>
+	<title><![CDATA[Eanes ISD]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/eanes-isd/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -970,7 +980,8 @@
 	</wp:postmeta>
 </item>
 <item>
-	<title>Covert Hippoplex</title>
+	<title><![CDATA[Covert Hippoplex]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/covert-hippoplex/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -1063,7 +1074,8 @@
 	</wp:postmeta>
 </item>
 <item>
-	<title>Land Rover of Austin</title>
+	<title><![CDATA[Land Rover of Austin]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/land-rover-of-austin/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -1156,7 +1168,8 @@
 	</wp:postmeta>
 </item>
 <item>
-	<title>Charles Maund Toyota</title>
+	<title><![CDATA[Charles Maund Toyota]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/charles-maund-toyota/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -1249,7 +1262,8 @@
 	</wp:postmeta>
 </item>
 <item>
-	<title>Charles Maund Volkswagen</title>
+	<title><![CDATA[Charles Maund Volkswagen]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/charles-maund-volkswagen/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -1342,7 +1356,8 @@
 	</wp:postmeta>
 </item>
 <item>
-	<title>Jaguar Land Rover</title>
+	<title><![CDATA[Jaguar Land Rover]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/jaguar-land-rover/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -1435,8 +1450,9 @@
 	</wp:postmeta>
 </item>
 <item>
-	<title>First State Bank 
-Buda</title>
+	<title><![CDATA[First State Bank 
+Buda]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/first-state-bank-buda/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -1529,7 +1545,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Frost Bank La Frontera</title>
+	<title><![CDATA[Frost Bank La Frontera]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/frost-bank-la-frontera/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -1622,7 +1639,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Frost Bank Pecan Park</title>
+	<title><![CDATA[Frost Bank Pecan Park]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/frost-bank-pecan-park/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -1715,8 +1733,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Wells Fargo
-620 & 2222</title>
+	<title><![CDATA[Wells Fargo 620 & 2222]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/wells-fargo-620-2222/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -1809,7 +1827,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Wells Fargo Brodie</title>
+	<title><![CDATA[Wells Fargo Brodie]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/wells-fargo-brodie/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -1902,7 +1921,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Wells Fargo Parmer</title>
+	<title><![CDATA[Wells Fargo Parmer]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/wells-fargo-parmer/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -1995,7 +2015,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Frost Bank - Tarrytown</title>
+	<title><![CDATA[Frost Bank - Tarrytown]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/frost-bank-tarrytown/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -2088,7 +2109,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Frost Bank - Cedar Park</title>
+	<title><![CDATA[Frost Bank - Cedar Park]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/frost-bank-cedar-park/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -2181,7 +2203,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Frost Bank - William Cannon</title>
+	<title><![CDATA[Frost Bank - William Cannon]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/frost-bank-william-cannon/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -2274,7 +2297,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Broadway Bank </title>
+	<title><![CDATA[Broadway Bank ]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/broadway-bank/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -2367,7 +2391,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>RBFCU Whitestone</title>
+	<title><![CDATA[RBFCU Whitestone]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/rbfcu-whitestone/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -2460,7 +2485,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Frost Bank Bee Caves</title>
+	<title><![CDATA[Frost Bank Bee Caves]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/frost-bank-bee-caves/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -2553,7 +2579,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Frost Bank - North Austin</title>
+	<title><![CDATA[Frost Bank - North Austin]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/frost-bank-north-austin/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -2646,7 +2673,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Dripping Springs United Methodist Church</title>
+	<title><![CDATA[Dripping Springs United Methodist Church]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/dripping-springs-united-methodist-church/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -2739,7 +2767,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>First Prespyterian Church</title>
+	<title><![CDATA[First Prespyterian Church]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/first-prespyterian-church/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -2832,7 +2861,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Peace Lutheran Church</title>
+	<title><![CDATA[Peace Lutheran Church]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/peace-lutheran-church/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -2925,7 +2955,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Queen of Angels Chapel</title>
+	<title><![CDATA[Queen of Angels Chapel]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/queen-of-angels-chapel/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -3018,7 +3049,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Redeemer Lutheran Church</title>
+	<title><![CDATA[Redeemer Lutheran Church]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/redeemer-lutheran-church/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -3111,7 +3143,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Wimberley UMC</title>
+	<title><![CDATA[Wimberley UMC]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/wimberley-umc/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -3204,7 +3237,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Fellowship Baptist Church</title>
+	<title><![CDATA[Fellowship Baptist Church]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/fellowship-baptist-church/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -3297,7 +3331,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Main Street Baptist Church - Ministry Center Finish Out</title>
+	<title><![CDATA[Main Street Baptist Church - Ministry Center Finish Out]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/main-street-baptist-church-ministry-center-finish-out/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -3390,7 +3425,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>TCESD #5 - Fire Station</title>
+	<title><![CDATA[TCESD #5 - Fire Station]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/tcesd-5-fire-station/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -3483,7 +3519,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Abacus School of Austin</title>
+	<title><![CDATA[Abacus School of Austin]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/abacus-school-of-austin/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -3576,7 +3613,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Magellan International School, Phase II</title>
+	<title><![CDATA[Magellan International School, Phase II]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/magellan-international-school-phase-ii/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -3669,7 +3707,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>TCESD #2 - Fire Station</title>
+	<title><![CDATA[TCESD #2 - Fire Station]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/tcesd-2-fire-station/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -3762,7 +3801,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Sun, Moon, and Stars</title>
+	<title><![CDATA[Sun, Moon, and Stars]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/sun-moon-and-stars/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -3855,7 +3895,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Austin Thyroid & Endocrinology</title>
+	<title><![CDATA[Austin Thyroid & Endocrinology]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/austin-thyroid-endocrinology/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -3948,7 +3989,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Dr. David Gordon's Office</title>
+	<title><![CDATA[Dr. David Gordon's Office]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/dr-david-gordon-s-office/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -4041,7 +4083,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Dr. Kalin Kelso</title>
+	<title><![CDATA[Dr. Kalin Kelso]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/dr-kalin-kelso/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -4134,7 +4177,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Dr. Nancy Binford</title>
+	<title><![CDATA[Dr. Nancy Binford]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/dr-nancy-binford/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -4227,7 +4271,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Drs. Reinhardt & Reeves</title>
+	<title><![CDATA[Drs. Reinhardt & Reeves]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/drs-reinhardt-reeves/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -4320,7 +4365,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>McNeil Medical Center</title>
+	<title><![CDATA[McNeil Medical Center]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/mcneil-medical-center/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -4413,7 +4459,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Midtown Medical Plaza</title>
+	<title><![CDATA[Midtown Medical Plaza]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/midtown-medical-plaza/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -4506,7 +4553,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Post Oak North</title>
+	<title><![CDATA[Post Oak North]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/post-oak-north/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -4599,7 +4647,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Post Oak South</title>
+	<title><![CDATA[Post Oak South]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/post-oak-south/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -4692,7 +4741,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>TCC Wyoming Springs</title>
+	<title><![CDATA[TCC Wyoming Springs]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/tcc-wyoming-springs/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -4785,7 +4835,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Wyoming Springs</title>
+	<title><![CDATA[Wyoming Springs]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/wyoming-springs/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -4878,7 +4929,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Central Endodontic Specialists</title>
+	<title><![CDATA[Central Endodontic Specialists]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/central-endodontic-specialists/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -4971,7 +5023,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Advanced Eye Care</title>
+	<title><![CDATA[Advanced Eye Care]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/advanced-eye-care/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -5064,7 +5117,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Marbridge - Bridges at the Villa</title>
+	<title><![CDATA[Marbridge - Bridges at the Villa]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/marbridge-bridges-at-the-villa/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -5157,7 +5211,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Lakeway Eye Physicians and Surgeons</title>
+	<title><![CDATA[Lakeway Eye Physicians and Surgeons]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/lakeway-eye-physicians-and-surgeons/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -5250,7 +5305,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Austin Gastroenterology</title>
+	<title><![CDATA[Austin Gastroenterology]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/austin-gastroenterology/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -5343,7 +5399,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>911 W. 38th </title>
+	<title><![CDATA[911 W. 38th ]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/911-w-38th/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -5436,7 +5493,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>The Urology Team</title>
+	<title><![CDATA[The Urology Team]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/the-urology-team/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -5529,7 +5587,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>TX-HyGIeaCare</title>
+	<title><![CDATA[TX-HyGIeaCare]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/tx-hygieacare/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -5622,7 +5681,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Hamamcy Dental</title>
+	<title><![CDATA[Hamamcy Dental]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/hamamcy-dental/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -5715,7 +5775,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>ANTX</title>
+	<title><![CDATA[ANTX]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/antx/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -5808,7 +5869,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Barton Place Marketing</title>
+	<title><![CDATA[Barton Place Marketing]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/barton-place-marketing/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -5901,7 +5963,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Davenport Village</title>
+	<title><![CDATA[Davenport Village]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/davenport-village/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -5994,7 +6057,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Emergent Technologies</title>
+	<title><![CDATA[Emergent Technologies]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/emergent-technologies/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -6087,7 +6151,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>First American Title</title>
+	<title><![CDATA[First American Title]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/first-american-title/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -6180,7 +6245,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Five Star Car Wash & Lube Center</title>
+	<title><![CDATA[Five Star Car Wash & Lube Center]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/five-star-car-wash-lube-center/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -6273,7 +6339,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Pecan Plaza</title>
+	<title><![CDATA[Pecan Plaza]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/pecan-plaza/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -6366,7 +6433,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Preserve Buildings</title>
+	<title><![CDATA[Preserve Buildings]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/preserve-buildings/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -6459,7 +6527,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>St. Cecilia Hotel</title>
+	<title><![CDATA[St. Cecilia Hotel]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/st-cecilia-hotel/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -6552,7 +6621,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Texas Municipal Retirement System</title>
+	<title><![CDATA[Texas Municipal Retirement System]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/texas-municipal-retirement-system/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -6645,7 +6715,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Trinity Hardwoods</title>
+	<title><![CDATA[Trinity Hardwoods]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/trinity-hardwoods/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -6738,7 +6809,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Uplands Village</title>
+	<title><![CDATA[Uplands Village]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/uplands-village/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -6831,7 +6903,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Villa di Calabria</title>
+	<title><![CDATA[Villa di Calabria]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/villa-di-calabria/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -6924,7 +6997,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Gumbo's of Westlake</title>
+	<title><![CDATA[Gumbo's of Westlake]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/gumbo-s-of-westlake/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -7017,7 +7091,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Brodie Plaza</title>
+	<title><![CDATA[Brodie Plaza]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/brodie-plaza/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -7110,7 +7185,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Yarings Facade Remodel</title>
+	<title><![CDATA[Yarings Facade Remodel]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/yarings-facade-remodel/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -7203,7 +7279,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Tarrytown Dance Center</title>
+	<title><![CDATA[Tarrytown Dance Center]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/tarrytown-dance-center/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -7296,8 +7373,9 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Plumbers And Pipe Fitters 
-        Local Union #286</title>
+	<title><![CDATA[Plumbers And Pipe Fitters 
+        Local Union #286]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/plumbers-and-pipe-fitters-local-union-286/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -7390,7 +7468,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Willow Court Retail</title>
+	<title><![CDATA[Willow Court Retail]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/willow-court-retail/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -7483,7 +7562,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Magellan International School</title>
+	<title><![CDATA[Magellan International School]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/magellan-international-school/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -7576,7 +7656,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Umlauf Sculpture Garden & Museum</title>
+	<title><![CDATA[Umlauf Sculpture Garden & Museum]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/umlauf-sculpture-garden-museum/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -7669,7 +7750,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Thermon Manufacturing</title>
+	<title><![CDATA[Thermon Manufacturing]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/thermon-manufacturing/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -7762,7 +7844,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Thermon Building 6</title>
+	<title><![CDATA[Thermon Building 6]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/thermon-building-6/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -7855,7 +7938,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Thermon Manufacturing Building 16</title>
+	<title><![CDATA[Thermon Manufacturing Building 16]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/thermon-manufacturing-building-16/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -7948,7 +8032,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Thermon Manufacturing Building 11</title>
+	<title><![CDATA[Thermon Manufacturing Building 11]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/thermon-manufacturing-building-11/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -8041,7 +8126,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Este Lofts</title>
+	<title><![CDATA[Este Lofts]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/este-lofts/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -8134,7 +8220,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Saltillo Lofts</title>
+	<title><![CDATA[Saltillo Lofts]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/saltillo-lofts/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -8227,7 +8314,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Timbercreek Apartments</title>
+	<title><![CDATA[Timbercreek Apartments]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/timbercreek-apartments/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -8320,7 +8408,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>TwentyOne24 Condominiums</title>
+	<title><![CDATA[TwentyOne24 Condominiums]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/twentyone24-condominiums/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -8413,7 +8502,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>St. Cecilia Hotel</title>
+	<title><![CDATA[St. Cecilia Hotel]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/st-cecilia-hotel/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -8506,7 +8596,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Franklin Garden Senior Housing</title>
+	<title><![CDATA[Franklin Garden Senior Housing]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/franklin-garden-senior-housing/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -8599,7 +8690,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>The Settlement Home</title>
+	<title><![CDATA[The Settlement Home]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/the-settlement-home/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -8692,7 +8784,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>M-Station</title>
+	<title><![CDATA[M-Station]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/m-station/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -8785,7 +8878,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Arbor Terrace</title>
+	<title><![CDATA[Arbor Terrace]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/arbor-terrace/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -8878,7 +8972,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>3101 E. 12th Street</title>
+	<title><![CDATA[3101 E. 12th Street]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/3101-e-12th-street/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -8971,7 +9066,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Marbridge Cottage 15</title>
+	<title><![CDATA[Marbridge Cottage 15]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/marbridge-cottage-15/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -9064,7 +9160,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Phi Gamma Delta Expansion</title>
+	<title><![CDATA[Phi Gamma Delta Expansion]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/phi-gamma-delta-expansion/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
@@ -9157,7 +9254,8 @@ Buda</title>
 	</wp:postmeta>
 </item>
 <item>
-	<title>Marbridge Villa Enrichment Center</title>
+	<title><![CDATA[Marbridge Villa Enrichment Center]]></title>
+	<![CDATA[_wp_old_slug]]>
 	<link>https://becaustin.wpengine.com/project/marbridge-villa-enrichment-center/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
