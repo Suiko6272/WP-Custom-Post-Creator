@@ -24,8 +24,8 @@ def LoadJSON():
 ###Create slug
 def AddSlugToData(data):
     for item in data:
-        project = item['project']
-        item['slug'] = slugify(project)
+        item['slug'] = slugify(item['project'])
+        item['category-slug'] = slugify(item['category'])
     return data
 
 creator = WPItemCreator()

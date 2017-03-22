@@ -26,14 +26,14 @@ class WPItemCreator:
 	<wp:post_date_gmt><![CDATA[2017-03-08 16:32:06]]></wp:post_date_gmt>
 	<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 	<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-	<wp:post_name><![CDATA[lower-case-title-value-goes-here]]></wp:post_name>
+	<wp:post_name><![CDATA[%(slug)s]]></wp:post_name>
 	<wp:status><![CDATA[publish]]></wp:status>
 	<wp:post_parent>0</wp:post_parent>
 	<wp:menu_order>0</wp:menu_order>
 	<wp:post_type><![CDATA[project]]></wp:post_type>
 	<wp:post_password><![CDATA[]]></wp:post_password>
 	<wp:is_sticky>0</wp:is_sticky>
-	<category domain="project_category" nicename="category-value-goes-here"><![CDATA[Category Value goes here]]></category>
+	<category domain="project_category" nicename="category-slug"><![CDATA[Category Value goes here]]></category>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_prlipro-post-options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:3:{s:14:"requested_slug";s:0:"";s:19:"hide_social_buttons";b:0;s:20:"disable_replacements";b:0;}]]></wp:meta_value>
