@@ -5,14 +5,14 @@ class WPItemCreator:
     # %(project)s
     # %(slug)s
     # %(url)s #  d['url']
-    # d['category']
-    # d['address']
-    # d['size']
-    # d['cost']
-    # d['description']
-    # d['owner']
-    # d['architect']
-    # d['architectWebsite']
+    # %(category)s #  d['category']
+    # %(address)s #   d['address']
+    # %(size)s #   d['size']
+    # %(cost)s #   d['cost']
+    # %(description)s #   d['description']
+    # %(owner)s #   d['owner']
+    # %(architect)s #   d['architect']
+    # %(architectWebsite)s #   d['architectWebsite']
     def CreateItem(self, itemData):
         xmlItemTemplate = """<item>
 	<title>%(project)s</title>
@@ -33,7 +33,7 @@ class WPItemCreator:
 	<wp:post_type><![CDATA[project]]></wp:post_type>
 	<wp:post_password><![CDATA[]]></wp:post_password>
 	<wp:is_sticky>0</wp:is_sticky>
-	<category domain="project_category" nicename="category-slug"><![CDATA[Category Value goes here]]></category>
+	<category domain="project_category" nicename="category-slug"><![CDATA[%(category)s]]></category>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_prlipro-post-options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:3:{s:14:"requested_slug";s:0:"";s:19:"hide_social_buttons";b:0;s:20:"disable_replacements";b:0;}]]></wp:meta_value>
@@ -44,7 +44,7 @@ class WPItemCreator:
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[address]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Address Value Goes Here]]></wp:meta_value>
+		<wp:meta_value><![CDATA[%(address)s]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_address]]></wp:meta_key>
@@ -52,7 +52,7 @@ class WPItemCreator:
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Size Value Goes Here]]></wp:meta_value>
+		<wp:meta_value><![CDATA[%(size)s]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -60,7 +60,7 @@ class WPItemCreator:
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Cost Value Goes Here]]></wp:meta_value>
+		<wp:meta_value><![CDATA[%(cost)s]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -68,7 +68,7 @@ class WPItemCreator:
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Description Value Goes Here]]></wp:meta_value>
+		<wp:meta_value><![CDATA[%(description)s]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_description]]></wp:meta_key>
@@ -76,7 +76,7 @@ class WPItemCreator:
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[owner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Owner Value Goes Here]]></wp:meta_value>
+		<wp:meta_value><![CDATA[%(owner)s]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_owner]]></wp:meta_key>
@@ -84,7 +84,7 @@ class WPItemCreator:
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Architect Value Goes Here]]></wp:meta_value>
+		<wp:meta_value><![CDATA[%(architect)s]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect]]></wp:meta_key>
@@ -92,7 +92,7 @@ class WPItemCreator:
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Website Value Goes Here]]></wp:meta_value>
+		<wp:meta_value><![CDATA[%(architectWebsite)s]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
