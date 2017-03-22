@@ -1,23 +1,10 @@
 
 
 class WPItemCreator:
-    testCount = 0
 
-    # def insertCord(self, sheet, name, cell, x, y):
-    # oops
-
-    def ConvertJson(self, sheet, x, y):
-        # print("Check {}:{}".format(plotX,plotY))
-        val = sheet.cell(y, x).value
-        if ("ENEMY" in val or "ALLY" in val):
-            # print("-------------------------------hit{}:{}".format(x,y))
-            return True
-        else:
-            return False
-#%(project)s
-        #%(address)s
-    # d["project"]
-    # d['url']
+    # %(project)s
+    # %(slug)s
+    #  d['url']
     # d['category']
     # d['address']
     # d['size']
@@ -29,7 +16,7 @@ class WPItemCreator:
     def CreateItem(self, itemData):
         xmlItemTemplate = """<item>
 	<title>%(project)s</title>
-	<link>https://becaustin.wpengine.com/project/lower-case-title-value-goes-here/</link>
+	<link>https://becaustin.wpengine.com/project/%(slug)s/</link>
 	<pubDate>Wed, 08 Mar 2017 16:32:06 +0000</pubDate>
 	<dc:creator><![CDATA[tmarc]]></dc:creator>
 	<description></description>
@@ -119,8 +106,7 @@ class WPItemCreator:
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[test-slug]]></wp:meta_value>
 	</wp:postmeta>
-</item>"""
-        print( xmlItemTemplate%itemData )
-
-
-
+</item>
+"""
+        #print( xmlItemTemplate%itemData )
+        return xmlItemTemplate%itemData
