@@ -27,7 +27,15 @@ def CorrectNotAvailable(data):
 ###Edit categories to new categories
 def CorrectCategories(data):
     for item in data:
-        break #TODO: categories
+        if item['category'] == 'churches':
+            item['category'] = 'church-civic'
+        elif item['category'] == 'medical':
+            item['category'] = 'medical-dental'
+        elif item['category'] == 'multifamily':
+            item['category'] = 'multifamily-hospitality'
+        elif item['category'] == 'office':
+            item['category'] = 'office-retail'
+        #TODO: categories
     return data
 
 ###Create slug and category-slug
@@ -134,3 +142,4 @@ def Permalink_301CSV(data):
         oldPermalink = oldUrl #Strip starting url into permalink
         newPermalink = '/' + item['slug'] #create new url
         #TODO: #store both into 301CSV
+        #Note: newPermaLink may require categories slug as well so .com/project/category-slug/slug
