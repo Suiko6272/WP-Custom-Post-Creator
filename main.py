@@ -27,7 +27,7 @@ def CorrectNotAvailable(data):
 ###Edit categories to new categories
 def CorrectCategories(data):
     for item in data:
-        break #TODO:
+        break #TODO: categories
     return data
 
 ###Create slug and category-slug
@@ -57,8 +57,7 @@ def BEC_Fixes():
 
 
 
-#TODO: remove 2nd St. Cecilia Hotel
-
+#TODO: Handle cases of same title / permalinks during load before wordpress import.
 creator = WPItemCreator()
 myData = BEC_Fixes()
 
