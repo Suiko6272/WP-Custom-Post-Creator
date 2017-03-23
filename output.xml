@@ -86,7 +86,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -118,7 +118,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -212,7 +212,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -306,7 +306,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -400,7 +400,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -462,7 +462,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -494,7 +494,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -588,7 +588,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -650,7 +650,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -682,7 +682,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -776,7 +776,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -870,7 +870,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -964,7 +964,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -1026,7 +1026,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -1112,7 +1112,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -1120,7 +1120,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -1206,7 +1206,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -1434,7 +1434,7 @@
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -1685,7 +1685,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -1780,7 +1780,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -2376,7 +2376,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -2470,7 +2470,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -2564,7 +2564,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -2658,7 +2658,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -2720,7 +2720,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -2814,7 +2814,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -2900,7 +2900,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -2908,7 +2908,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -3088,7 +3088,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -3096,7 +3096,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -3128,7 +3128,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -3496,7 +3496,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect]]></wp:meta_key>
@@ -3504,7 +3504,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -3598,7 +3598,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -3778,7 +3778,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect]]></wp:meta_key>
@@ -3786,7 +3786,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -3880,7 +3880,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -4036,7 +4036,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -4130,7 +4130,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -4224,7 +4224,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -4412,7 +4412,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -4600,7 +4600,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -4632,7 +4632,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -4694,7 +4694,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -4874,7 +4874,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -4968,7 +4968,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -5008,7 +5008,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -5102,7 +5102,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -5446,7 +5446,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -5478,7 +5478,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -5572,7 +5572,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -5666,7 +5666,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -5760,7 +5760,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -5916,7 +5916,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -6010,7 +6010,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -6190,7 +6190,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -6386,7 +6386,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -6418,7 +6418,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -6472,7 +6472,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -6480,7 +6480,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -6566,7 +6566,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -6660,7 +6660,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -6778,7 +6778,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[owner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_owner]]></wp:meta_key>
@@ -6794,7 +6794,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -6942,7 +6942,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -7044,7 +7044,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -7076,7 +7076,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -7224,7 +7224,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -7350,7 +7350,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect]]></wp:meta_key>
@@ -7358,7 +7358,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -7539,7 +7539,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect]]></wp:meta_key>
@@ -7547,7 +7547,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -7985,7 +7985,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -8017,7 +8017,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -8079,7 +8079,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -8111,7 +8111,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -8165,7 +8165,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -8173,7 +8173,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -8205,7 +8205,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -8259,7 +8259,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -8299,7 +8299,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -8353,7 +8353,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -8361,7 +8361,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -8385,7 +8385,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect]]></wp:meta_key>
@@ -8393,7 +8393,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -8447,7 +8447,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -8487,7 +8487,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -8541,7 +8541,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_size]]></wp:meta_key>
@@ -9051,7 +9051,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -9145,7 +9145,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -9207,7 +9207,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -9239,7 +9239,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
@@ -9301,7 +9301,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[construction_cost]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_construction_cost]]></wp:meta_key>
@@ -9333,7 +9333,7 @@ Buda]]></title>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[architect_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[NotAvailable]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 	</wp:postmeta>
 	<wp:postmeta>
 		<wp:meta_key><![CDATA[_architect_website]]></wp:meta_key>
