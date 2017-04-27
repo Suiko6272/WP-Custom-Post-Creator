@@ -41,20 +41,32 @@ def BEC_Fixes():
     data = CorrectNotAvailable(data)
     return data
 
-#TODO: Handle cases of same title / permalinks during load before wordpress import.
-myData = BEC_Fixes()
-creator = WPXML()
-creator.CreateXML_BEC(myData)
-
-
-
-
-
 ###Get old permalink for 301 redirect
 def Permalink_301CSV(data):
     for item in data:
         oldUrl = item['url'] #grab old url
-        oldPermalink = oldUrl #Strip starting url into permalink
-        newPermalink = '/' + item['slug'] #create new url
-        #TODO: #store both into 301CSV
-        #Note: newPermaLink may require categories slug as well so .com/project/category-slug/slug
+        oldPermalink = oldUrl.replace('http://www.baileyelliott.com', '') #Strip starting url into permalink
+        #print(oldPermalink)
+        newPermalink = '/project/' + item['category'] + '/' + item['slug'] #create new url
+        #print(newPermalink)
+        #TODO: store both into 301CSV instead of relying on print() then copy/paste from console output
+
+        # http://www.baileyelliott.com/completed/automotive/CovertHippoplex.html
+        # http://bbbec.wpengine.com/project/automotive/covert-hippoplex/
+        # Becomes
+        # /completed/automotive/CovertHippoplex.html
+        # /project/automotive/covert-hippoplex/
+
+
+
+
+
+#TODO: Handle cases of same title / permalinks during load before wordpress import.
+myData = BEC_Fixes()
+#creator = WPXML()
+#creator.CreateXML_BEC(myData)
+
+
+Permalink_301CSV(myData)
+
+
